@@ -9,6 +9,6 @@ I plan to do the following on this page:
 
 ---
 
-I am a Lecturer at CU Boulder.  I teach undergraduate courses, mainly in the Calculus sequence.
+I am a Lecturer at CU Boulder.  I teach undergraduate courses, mainly in the Calculus sequence.  As you can see from the list above, I hope to set up some material on this website to use for the Calc 3 class I am teaching this semester.
 
 I can reached by email at *noyesmb@colorado.edu*.
