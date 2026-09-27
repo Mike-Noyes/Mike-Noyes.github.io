@@ -15,10 +15,26 @@ I can reached by email at *noyesmb@colorado.edu*.
 
 ## My Blog
 
+---
+layout: home
+title: Welcome to My Blog
+description: A place where I share my thoughts on coding, life, and technology.
+---
+
+# Hello, World! 👋
+
+Welcome to my personal blog. I am glad you are here. 
+
+## Recent Posts
+Below you will find my latest thoughts and tutorials. 
+
+<!-- If using Jekyll, this liquid loop automatically lists your posts from the _posts folder -->
 <ul>
   {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url}}">{{ post.title }} </a>
-  </li>
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> — <i>{{ post.date | date: "%B %d, %Y" }}</i>
+    </li>
   {% endfor %}
 </ul>
+
+---
