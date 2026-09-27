@@ -1,3 +1,9 @@
+---
+layout: home
+title: Welcome to My Blog
+description: A place where I share my thoughts on coding, life, and technology.
+---
+
 # Mike-Noyes.github.io
 
 This is my **first** attempt at making a website!  This is a work in progress.
@@ -15,12 +21,6 @@ I can reached by email at *noyesmb@colorado.edu*.
 
 ## My Blog
 
----
-layout: home
-title: Welcome to My Blog
-description: A place where I share my thoughts on coding, life, and technology.
----
-
 # Hello, World! 👋
 
 Welcome to my personal blog. I am glad you are here. 
@@ -37,4 +37,3 @@ Below you will find my latest thoughts and tutorials.
   {% endfor %}
 </ul>
 
----
