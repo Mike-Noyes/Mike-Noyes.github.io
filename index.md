@@ -1,8 +1,3 @@
----
-layout: home
-title: Welcome to My Blog
-description: A place where I share my thoughts on coding, life, and technology.
----
 
 # Mike-Noyes.github.io
 
