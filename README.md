@@ -9,4 +9,6 @@ I plan to do the following on this page:
 
 ---
 
+I am a Lecturer at CU Boulder.  I teach undergraduate courses, mainly in the Calculus sequence.
+
 I can reached by email at *noyesmb@colorado.edu*.
