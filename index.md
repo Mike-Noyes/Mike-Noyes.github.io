@@ -14,6 +14,10 @@ I am a Lecturer at CU Boulder.  I teach undergraduate courses, mainly in the Cal
 
 I can reached by email at *noyesmb@colorado.edu*.
 
+## Navigation
+
+* [Go to the Calc 3 Page](calc3.html)
+
 ## My Blog
 
 # Hello, World! 👋
