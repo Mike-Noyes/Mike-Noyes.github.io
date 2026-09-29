@@ -2,7 +2,7 @@
 
 The following links will take you various place (I hope):
 
-* [Desmos links](clac3_mt2_desmos.html)
+* [Desmos links](../desmos/calc3_mt2/mt2_desmos_files.html)
 * [Formula Sheets and Notes](calc3_mt2_notes.html)
 
 
