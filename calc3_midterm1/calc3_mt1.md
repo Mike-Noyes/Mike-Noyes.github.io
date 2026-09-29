@@ -6,5 +6,5 @@ The following links will take you somewhere (or they won't):
 * [Formula Sheets and Notes](calc3_mt1_notes.html)
 
 
-* [Back to Calc 3](calc3.html)
-* [Back to Home](index.html)
+* [Back to Calc 3](../calc3.html)
+* [Back to Home](../index.html)
