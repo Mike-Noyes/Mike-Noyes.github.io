@@ -2,5 +2,5 @@
 
 * [Tangent Plane to Parametric Surface](https://www.desmos.com/3d/yv7elgf0b5)
 
-* [Back to Calc 3 Midterm 1 Page](../calc3_mt1.html)
-* [Back to Home Page](../index.html)
+* [Back to Calc 3 Midterm 1 Page](../../calc3_mt1.html)
+* [Back to Home Page](../../index.html)
