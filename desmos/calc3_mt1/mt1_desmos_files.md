@@ -1,5 +1,7 @@
 # Here are the links to the Desmos 3D demonstrations related to various things that we've done with the Midterm 1 material!
 
+**PLEASE NOTE:** clicking on the link will open Desmos in this tab.  If you want to open the Desmos file in a new tab, right-click or ctrl+click on the link and select "Open link in new tab" from the menu.
+
 ## Examples
 
 These are Desmos 3D files related to examples discussed in class.
