@@ -2,7 +2,7 @@
 
 Here you will find links to things related to Calc 3.
 
-$$\int_0^{\infty} f(t)e^{-st}dt$$
+$$\int_{-\infty}^{\infty}\int_{-\infty}^{\infty} e^{-(x^2+y^2)}dxdy = \pi$$
 
 The most important of these are the following:
 
