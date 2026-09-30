@@ -22,10 +22,8 @@ I can reached by email at <noyesmb@colorado.edu>.
 
 ## My Blog
 
-Welcome to my personal blog. I am glad you are here. 
-
 ### Recent Posts
-Below you will find my latest thoughts and tutorials. 
+Below you will find my latest posts.   
 
 <!-- If using Jekyll, this liquid loop automatically lists your posts from the _posts folder -->
 <ul>
