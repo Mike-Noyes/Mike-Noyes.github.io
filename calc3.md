@@ -2,6 +2,8 @@
 
 Here you will find links to things related to Calc 3.
 
+$$\int_0^{\infty} f(t)e^{-st}dt$$
+
 The most important of these are the following:
 
 * [Midterm 1 Material](calc3_mt1/calc3_mt1.html)
