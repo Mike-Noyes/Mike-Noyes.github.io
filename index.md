@@ -34,3 +34,6 @@ Below you will find my latest posts.
   {% endfor %}
 </ul>
 
+---
+
+This site is licensed under the [MIT License](LICENSE).
