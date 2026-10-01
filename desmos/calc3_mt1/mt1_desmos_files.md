@@ -10,7 +10,9 @@ These are Desmos 3D files related to examples discussed in class.
 
 ## Midterm 1 Free Response Questions
 
-These are Desmos 3D files related to the Free Response Questions from Midterm 1
+These are Desmos 3D files related to the Free Response Questions from Midterm 1.
+
+I've updated these to include vectors in the plots (instead of line segments) and have included notes to explain what's going on a little bit.
 
 * [Question 10](https://www.desmos.com/3d/t51sxtulwa)
 * [Question 11](https://www.desmos.com/3d/cpd10ynerr)
