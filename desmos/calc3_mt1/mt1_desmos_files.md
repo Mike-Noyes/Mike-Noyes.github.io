@@ -26,4 +26,5 @@ I've updated these to include vectors in the plots (instead of line segments) an
 These links will take you back to either the Midterm 1 Main Page or the Home Page.
 
 * [Back to Calc 3 Midterm 1 Page](../../calc3_mt1/calc3_mt1.html)
+* [Back to Calc 3 Home](../../calc3.html)
 * [Back to Home Page](../../index.html)
