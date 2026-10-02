@@ -84,7 +84,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   <details>
   <summary><strong>Solution</strong></summary>
 
-  First, verify the point is on the surface: $2^2 - 1^2 = 4 - 1 = 3$ ✓
+  First, verify the point is on the surface: $2^2 - 1^2 = 4 - 1 = 3$.
 
   Find the partial derivatives:
   
