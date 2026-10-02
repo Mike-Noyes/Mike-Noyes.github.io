@@ -2,6 +2,10 @@
 
 ## Functions of Several Variables (14.1)
 
+1. Find the domain of $f(x,y) = x\ln(x-y^2)$.
+
+**Solution:**  Since the natural log function is only defined when its input is greater than 0, we need to find the values of $x$ and $y$ such that $x-y^2 >0$.  Rewriting this inequality gives $x>y^2$.
+
 ## Limits (14.2)
 
 ## Partial Derivatives (14.3)
