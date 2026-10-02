@@ -92,7 +92,11 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   
   Second, find $f_y$: $f_y(x,y) = -2y$, so $f_y(2,1) = -2$.
 
-  The tangent plane equation is:
+  The general tangent plane equation is:
+
+  $$z = f(x_0, y_0) + f_x(x_0, y_0)(x-x_0) + f_y(x_0, y_0)(y - y_0)$$
+
+  so plugging in the values from our question gives
   
   $$z = 3 + 4(x-2) - 2(y-1)$$
 
