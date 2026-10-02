@@ -100,6 +100,14 @@ Both of these will be worked through below.
 
   $$\langle -\frac{1}{2}, -\frac{1}{2}, -\frac{1}{2} \rangle \cdot \langle x - \frac{\pi}{4}, y - \frac{1}{2}, z - \frac{1}{2} \rangle = 0$$
 
+  If you take the time to expand and simplify a bit, you get
+
+  $$2x+2y+2z = \frac{\pi}{2}+2$$
+
+  See the Desmos 3D link for a visualization of this:
+
+  [Tangent Plane to Parametric Surface](https://www.desmos.com/3d/yeix4vk0bc)
+
 ## The Chain Rule (14.5)
 
 ## Directional Derivatives and the Gradient (14.6)
