@@ -2,7 +2,7 @@
 
 ## Functions of Several Variables (14.1)
 
-1. Find the domain of $f(x,y) = x\ln(x-y^2)$.
+* Find the domain of $f(x,y) = x\ln(x-y^2)$.
 
   **Solution:**  Since the natural log function is only defined when its input is greater than 0, we need to find   the values of $x$ and $y$ such that $x-y^2 >0$.  Rewriting this inequality gives $x>y^2$.
 
@@ -10,7 +10,7 @@
 
 The main thing to remember about limits of functions of several variables is that there is now an infinite number of paths that can approach the point $(x_0, y_0)$.  This means that it is not enough to check one or two (or even finitely many) paths to show that a limit exists.  But, it is enough to check two paths to show that the limit doesn't exist.  If you can find two paths that lead to two different limits, then the limit does not exist.
 
-1. Evaluate $\lim_{(x,y)\to (0,0)} \frac{x^2-y^2}{x^2+y^2}$.
+* Evaluate $\lim_{(x,y)\to (0,0)} \frac{x^2-y^2}{x^2+y^2}$.
 
    **Solution:** First, take the path along the x-axis: $y=0$.  Then the limit becomes
 
@@ -26,7 +26,7 @@ The main thing to remember about limits of functions of several variables is tha
 
 The important things to remember here are that you are treating one of the variables as a constant and differentiating with respect to the other variable just like you did in Calc 1, using all the rules and tools that you have.
 
-1. Let $f(x,y) = xy\sin(\sqrt{x})$.  Find $f_x(x,y), f_y(x,y)$.
+* Let $f(x,y) = xy\sin(\sqrt{x})$.  Find $f_x(x,y), f_y(x,y)$.
 
    **Solution:** $f_x(x,y) = y\sin(\sqrt{x}) + \frac{xy\cos(\sqrt{x})}{2\sqrt{x}}$
 
@@ -36,13 +36,45 @@ The important things to remember here are that you are treating one of the varia
 
 There are higher-order partial derivatives, $f_{xx}(x,y), f_{yy}(x,y), f_{xy}(x,y), f_{yx}(x,y)$, and so on.  If $f_{xy}(x,y)$ and $f_{yx}(x,y)$ are continuous on some disk, then on that disk, $f_{xy}(x,y) = f_{yx}(x,y)$.  This is called *Clairaut's Theorem* and it is usually stated as "mixed second-order partials commute."
 
-2. Let $f(x,y) = x^2y^2 - 2xy$.  Find $f_{xy}(x,y)$ and $f_{yx}(x,y)$.
+* Let $f(x,y) = x^2y^2 - 2xy$.  Find $f_{xy}(x,y)$ and $f_{yx}(x,y)$.
 
    **Solution:** $f_x(x,y) = 2xy^2 - 2y$ and $f_y(x,y) = 2x^2y - 2x$.  Then we have $f_{xy}(x,y) = 4xy -2$ and $f_{yx}(x,y) = 4xy -2$ and we see that these derivatives are the same.
 
    We could have assumed this from the beginning by noting that $f(x,y)$ is a polynomial, so all of the derivatives are also polynomials, so the function and all of its derivatives are continuous everywhere.
 
 ## Tangent Planes (14.4 and 16.6)
+
+There are two main ways to proceed here, depending on whether you're given the surface in an explicit form $z=f(x,y)$ or if you're given a parametric surface $\vec{r}(u,v) = \langle x(u,v), y(u,v), z(u,v) \rangle$.
+
+In the first case, the tangent plane to $z=f(x,y)$ at the point $(x_0, y_0, f(x_0, y_0))$ is given by
+
+$$z = f(x_0, y_0) + f_x(x_0, y_0)(x-x_0) + f_y(x_0, y_0)(y-y_0)$$
+
+In the second case, you are given everything in terms of $u$ and $v$ and you start by converting that into information about $x,y,$ and $z$: $x_0 = x(u_0, v_0), y_0 = y(u_0, v_0),$ and $z_0 = z(u_0, v_0)$.  You then need to find the normal vector to the tangent plane using the partial derivatives of the parameterization:
+
+$$ \vec{n}(u_0, v_0) = \vec{r}\;'_u(u_0, v_0) \times \vec{r}\;'_v(u_0, v_0)$$
+
+Once you have this, you use the vector equation for a plane:
+
+$$\vec{n}(\cdot \langle x-x_0, y-y_0, z-z_0 \rangle = 0$$
+
+Both of these will be worked through below.
+
+* Find the tangent plane to the paraboloid $z=x^2 + 2y^2$ at the point $(1, 1, 3)$.
+  
+  **Solution:** Start by finding the partial derivatives at the given point:
+
+  $$f_x(1,1) = 2, \;\; f_y(1,1) = 4$$
+
+  Then plug everything in to the tangent plane equation:
+
+  $$z = 3 + 2(x-1) + 4(y-1)$$
+
+  See the Desmos 3D link for a visualization of this:
+
+  [Tangent Plane to z=f(x,y)](https://www.desmos.com/3d/v49zwldjhu)
+  
+* 
 
 ## The Chain Rule (14.5)
 
