@@ -24,6 +24,16 @@ The main thing to remember about limits of functions of several variables is tha
 
 ## Partial Derivatives (14.3)
 
+The important things to remember here are that you are treating one of the variables as a constant and differentiating with respect to the other variable just like you did in Calc 1, using all the rules and tools that you have.
+
+3. Let $f(x,y) = xy\sin(\sqrt{x})$.  Find $f_x(x,y), f_y(x,y)$.
+
+   **Solution:** $f_x(x,y) = y\sin(\sqrt{x}) + \frac{xy\cos(\sqrt{x})}{2\sqrt{x}}$
+
+   Here, we used the product rule and the chain rule from Calc 1.
+
+   $f_y(x,y) = x\sin(\sqrt{x})$
+
 ## Tangent Planes (14.4 and 16.6)
 
 ## The Chain Rule (14.5)
