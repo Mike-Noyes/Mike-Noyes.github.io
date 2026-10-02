@@ -82,7 +82,21 @@ Both of these will be worked through below.
 
   Now you need to find the derivatives:
 
-  $$\vec{r}_u(u,v) = \langle 1, -\sin(u)\cos(v), -\sin(u)\sin(v)\rangle \mbox{  now plug in values  } \vec{r}_u(\pi/4, \pi/4) = \langle 1, -1/2, -1/2 \rangle$$
+  $$\vec{r}_u(u,v) = \langle 1, -\sin(u)\cos(v), -\sin(u)\sin(v)\rangle$$
+  $$\vec{r}_v(u,v) = \langle 0, -\cos(u)\sin(v), \cos(u)\cos(v) \rangle$$
+
+  Now plug in the values for $u_0$ and $v_0$ to get
+  
+  $$\vec{r}_u(\frac{\pi}{4}, \frac{\pi}{4}) = \langle 1, -\frac{1}{2}, -\frac{1}{2} \rangle$$
+  $$\vec{r}_v(\frac{\pi}{4}, \frac{\pi}{4}) = \langle 0, -\frac{1}{2}, \frac{1}{2} \rangle$$
+
+  The cross product of these two vectors gives the normal vector to the tangent plane:
+
+  $$\vec{n} = \vec{r}_u(\frac{\pi}{4}, \frac{\pi}{4}) \times \vec{r}_v(\frac{\pi}{4}, \frac{\pi}{4}) = \langle -\frac{1}{2}, -\frac{1}{2}, -\frac{1}{2} \rangle$$
+
+  Finally, put it all together to get
+
+  $$\langle -\frac{1}{2}, -\frac{1}{2}, -\frac{1}{2} \rangle \cdot \langle x - \frac{\pi}{4}, y - \frac{1}{2}, z - \frac{1}{2} \rangle = 0$$
 
 ## The Chain Rule (14.5)
 
