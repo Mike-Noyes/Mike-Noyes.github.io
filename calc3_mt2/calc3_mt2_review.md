@@ -1,5 +1,7 @@
 # These are some review problems that will help you prepare for Midterm 2.
 
+If you click on **Solution** a worked solution will appear.  Only do this after you have attempted the question yourself.
+
 ## Functions of Several Variables (14.1)
 
 * Find the domain of $f(x,y) = \sqrt{16 - x^2 - y^2}$.
@@ -50,9 +52,9 @@
   <details>
   <summary><strong>Solution</strong></summary>
 
-  $f_x(x,y) = e^{x^2y} \cdot 2xy = 2xye^{x^2y}$
+  $$f_x(x,y) = e^{x^2y} \cdot 2xy = 2xye^{x^2y}$$
 
-  $f_y(x,y) = e^{x^2y} \cdot x^2 = x^2e^{x^2y}$
+  $$f_y(x,y) = e^{x^2y} \cdot x^2 = x^2e^{x^2y}$$
 
   </details>
 
@@ -63,15 +65,15 @@
 
   First, find the first partial derivatives:
   
-  $f_x(x,y) = y\cos(xy)$
+  $$f_x(x,y) = y\cos(xy)$$
   
-  $f_y(x,y) = x\cos(xy)$
+  $$f_y(x,y) = x\cos(xy)$$
 
   Then the second partial derivatives:
   
-  $f_{xx}(x,y) = -y^2\sin(xy)$
+  $$f_{xx}(x,y) = -y^2\sin(xy)$$
   
-  $f_{yy}(x,y) = -x^2\sin(xy)$
+  $$f_{yy}(x,y) = -x^2\sin(xy)$$
 
   </details>
 
@@ -86,9 +88,9 @@
 
   Find the partial derivatives:
   
-  $f_x(x,y) = 2x$, so $f_x(2,1) = 4$
+  $$f_x(x,y) = 2x$, so $f_x(2,1) = 4$$
   
-  $f_y(x,y) = -2y$, so $f_y(2,1) = -2$
+  $$f_y(x,y) = -2y$, so $f_y(2,1) = -2$$
 
   The tangent plane equation is:
   
