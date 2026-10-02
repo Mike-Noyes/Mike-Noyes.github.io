@@ -44,7 +44,9 @@ There are higher-order partial derivatives, $f_{xx}(x,y), f_{yy}(x,y), f_{xy}(x,
 
 ## Tangent Planes (14.4 and 16.6)
 
-There are two main ways to proceed here, depending on whether you're given the surface as the graph of a function $z=f(x,y)$ or if you're given a parametric surface $\vec{r}(u,v) = \langle x(u,v), y(u,v), z(u,v) \rangle$.
+There are two main ways to proceed here, depending on whether you're given the surface as the graph of a function $z=f(x,y)$ or if you're given a parametric surface 
+
+$$\vec{r}(u,v) = \langle x(u,v), y(u,v), z(u,v) \rangle$$
 
 In the first case, the tangent plane to $z=f(x,y)$ at the point $(x_0, y_0, f(x_0, y_0))$ is given by
 
