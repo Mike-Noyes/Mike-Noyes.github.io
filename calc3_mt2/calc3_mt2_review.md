@@ -88,13 +88,15 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   Find the partial derivatives:
   
-  $$f_x(x,y) = 2x$, so $f_x(2,1) = 4$$
+  First, find $f_x$: $f_x(x,y) = 2x$, so $f_x(2,1) = 4$.
   
-  $$f_y(x,y) = -2y$, so $f_y(2,1) = -2$$
+  Second, find $f_y$: $f_y(x,y) = -2y$, so $f_y(2,1) = -2$.
 
   The tangent plane equation is:
   
   $$z = 3 + 4(x-2) - 2(y-1)$$
+
+  which can be simplified to
   
   $$z = 4x - 2y - 3$$
 
