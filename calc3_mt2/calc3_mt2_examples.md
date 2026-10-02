@@ -8,6 +8,20 @@
 
 ## Limits (14.2)
 
+The main thing to remember about limits of functions of several variables is that there is now an infinite number of paths that can approach the point $(x_0, y_0)$.  This means that it is not enough to check one or two (or even finitely many) paths to show that a limit exists.  But, it is enough to check two paths to show that the limit doesn't exist.  If you can find two paths that lead to two different limits, then the limit does not exist.
+
+2. Evaluate $\lim_{(x,y)\to (0,0)} \frac{x^2-y^2}{x^2+y^2}$.
+
+   **Solution:** First, take the path along the x-axis: $y=0$.  Then the limit becomes
+
+   $$\lim_{(x,0)\to (0,0)} \frac{x^2}{x^2} = 1$$
+
+   Now, take the second path along the y-axis: $x=0$.  This limit is
+
+   $$\lim_{(0,y)\to (0,0)} \frac{-y^2}{y^2} = -1$$
+
+   Since these two limits are different, the original limit does not exist.
+
 ## Partial Derivatives (14.3)
 
 ## Tangent Planes (14.4 and 16.6)
