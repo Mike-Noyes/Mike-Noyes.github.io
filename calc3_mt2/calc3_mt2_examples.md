@@ -82,7 +82,7 @@ Both of these will be worked through below.
 
   Now you need to find the derivatives:
 
-  $$\vec{r}_u(u,v) = \langle 1, -\sin(u)\cos(v), -\sin(u)\sin(v)\rangle \doublerightarrow \vec{r}_u(\pi/4, \pi/4) = \langle 1, -1/2, -1/2 \rangle$$
+  $$\vec{r}_u(u,v) = \langle 1, -\sin(u)\cos(v), -\sin(u)\sin(v)\rangle \mbox{  now plug in values  } \vec{r}_u(\pi/4, \pi/4) = \langle 1, -1/2, -1/2 \rangle$$
 
 ## The Chain Rule (14.5)
 
