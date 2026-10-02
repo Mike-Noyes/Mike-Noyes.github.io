@@ -64,7 +64,7 @@ Both of these will be worked through below.
   
   **Solution:** Start by finding the partial derivatives at the given point:
 
-  $$f_x(1,1) = 2, \;\; f_y(1,1) = 4$$
+  $$f_x(1,1) = 2,  f_y(1,1) = 4$$
 
   Then plug everything in to the tangent plane equation:
 
