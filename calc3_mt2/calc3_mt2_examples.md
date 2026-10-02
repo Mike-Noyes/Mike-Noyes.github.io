@@ -76,7 +76,9 @@ Both of these will be worked through below.
 
   [Tangent Plane to z=f(x,y)](https://www.desmos.com/3d/v49zwldjhu)
   
-* 
+* Find the tangent plane to $\vec{r}(u,v) = \langle u, \cos(u)\cos(v), \cos(u)\sin(v) \rangle$ at the point $P(\frac{\pi}{4}, \frac{1}{2}, \frac{1}{2})$.
+
+  **Solution:** Start by figuring out the values of $u$ and $v$ that map to the point $P$: since the first component of $\vec{r}$ is just $u$, this means that $u_0$ must equal the first coordinate of $P$.  This gives $u_0 = \frac{\pi}{4}$.  Plug this in to the other two components of $\vec{r}$ to get that $\frac{\sqrt{2}\cos(v)}{2} = \frac{1}{2}$ and the same for the third component.  A little trig work gives that $v_0=\frac{\pi}{4}$ as well.
 
 ## The Chain Rule (14.5)
 
