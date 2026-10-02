@@ -80,6 +80,10 @@ Both of these will be worked through below.
 
   **Solution:** Start by figuring out the values of $u$ and $v$ that map to the point $P$: since the first component of $\vec{r}$ is just $u$, this means that $u_0$ must equal the first coordinate of $P$.  This gives $u_0 = \frac{\pi}{4}$.  Plug this in to the other two components of $\vec{r}$ to get that $\frac{\sqrt{2}\cos(v)}{2} = \frac{1}{2}$ and the same for the third component.  A little trig work gives that $v_0=\frac{\pi}{4}$ as well.
 
+  Now you need to find the derivatives:
+
+  $$\vec{r}_u(u,v) = \langle 1, -\sin(u)\cos(v), -\sin(u)\sin(v)\rangle \doublerightarrow \vec{r}_u(\pi/4, \pi/4) = \langle 1, -1/2, -1/2 \rangle$$
+
 ## The Chain Rule (14.5)
 
 ## Directional Derivatives and the Gradient (14.6)
