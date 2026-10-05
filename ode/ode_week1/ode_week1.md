@@ -11,7 +11,7 @@ The most important topics this week are *separable equations*, *linear first-ord
 The following links will take you to some Desmos files and the notes that were handed-out in class:
 
 * [Desmos files](../../desmos/ode_week1/week1_desmos_files.html)
-* [Formula Sheets and Notes](../../ode_week1/ode_week1_notes.html)
+* [Formula Sheets and Notes](ode_week1_notes.html)
 
 ## Navigation
 

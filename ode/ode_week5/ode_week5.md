@@ -7,7 +7,7 @@ Week 5 brings together the main tools from the course and emphasizes modeling, i
 ## Course Material
 
 * [Desmos files](../../desmos/ode_week5/week5_desmos_files.html)
-* [Formula Sheets and Notes](../../ode_week5/ode_week5_notes.html)
+* [Formula Sheets and Notes](ode_week5_notes.html)
 
 ## Navigation
 

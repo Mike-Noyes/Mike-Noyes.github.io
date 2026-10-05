@@ -6,7 +6,7 @@ The final exam brings together the main themes of the course: antiderivatives, d
 
 ## Course Material
 
-* [Final Exam Notes](../../calc2_final/calc2_final.html)
+* [Final Exam Notes](calc2_final.html)
 
 ## Navigation
 

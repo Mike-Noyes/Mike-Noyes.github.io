@@ -7,7 +7,7 @@ Week 3 focuses on linear transformations, eigenvalues, and eigenvectors, which c
 ## Course Material
 
 * [Desmos files](../../desmos/linalg_week3/week3_desmos_files.html)
-* [Formula Sheets and Notes](../../linalg_week3/linalg_week3_notes.html)
+* [Formula Sheets and Notes](linalg_week3_notes.html)
 
 ## Navigation
 

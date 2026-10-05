@@ -7,7 +7,7 @@ This week explores systems of differential equations and solution techniques tha
 ## Course Material
 
 * [Desmos files](../../desmos/ode_week4/week4_desmos_files.html)
-* [Formula Sheets and Notes](../../ode_week4/ode_week4_notes.html)
+* [Formula Sheets and Notes](ode_week4_notes.html)
 
 ## Navigation
 

@@ -6,7 +6,7 @@ This section increases the level of abstraction by focusing on parameterization,
 
 ## Course Material
 
-* [Course Notes](../../calc3_mt3/calc3_mt3_notes.html)
+* [Formula Sheets and Notes](calc3_mt3.html)
 
 ## Navigation
 

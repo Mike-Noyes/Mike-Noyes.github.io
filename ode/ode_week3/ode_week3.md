@@ -7,7 +7,7 @@ Week 3 focuses on higher-order equations and techniques for solving them, along 
 ## Course Material
 
 * [Desmos files](../../desmos/ode_week3/week3_desmos_files.html)
-* [Formula Sheets and Notes](../../ode_week3/ode_week3_notes.html)
+* [Formula Sheets and Notes](ode_week3_notes.html)
 
 ## Navigation
 

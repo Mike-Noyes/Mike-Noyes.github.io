@@ -11,7 +11,7 @@ The most important operations on matrices are *row reduction* and *matrix multip
 The following links will take you to some Desmos files and the notes that were handed-out in class:
 
 * [Desmos files](../../desmos/linalg_week1/week1_desmos_files.html)
-* [Formula Sheets and Notes](../../linalg_week1/linalg_week1_notes.html)
+* [Formula Sheets and Notes](linalg_week1_notes.html)
 
 ## Navigation
 

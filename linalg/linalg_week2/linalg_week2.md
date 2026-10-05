@@ -7,7 +7,7 @@ This week builds on matrix algebra and systems of equations with a focus on vect
 ## Course Material
 
 * [Desmos files](../../desmos/linalg_week2/week2_desmos_files.html)
-* [Formula Sheets and Notes](../../linalg_week2/linalg_week2_notes.html)
+* [Formula Sheets and Notes](linalg_week2_notes.html)
 
 ## Navigation
 

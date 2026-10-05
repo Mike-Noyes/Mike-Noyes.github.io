@@ -6,14 +6,12 @@ Most of the material on this midterm is *Geometric*. We will be focusing on vect
 
 The two most important operations on vectors are the *dot product* and the *cross product*. Please note that while the dot product is defined for any two vectors of the same size, the cross product is a special operation used in 3D geometry.
 
-After vectors, the most basic geometric objects that we use are lines and planes.
-
 ## Course Material
 
 The following links will take you to some Desmos 3D files and the notes that were handed-out in class:
 
 * [Desmos files](../../desmos/calc3_mt1/mt1_desmos_files.html)
-* [Formula Sheets and Notes](../../calc3_mt1/calc3_mt1_notes.html)
+* [Formula Sheets and Notes](calc3_mt1_notes.html)
 
 ## Navigation
 
