@@ -6,10 +6,10 @@ $$\int_0^{\infty} e^{-x} dx = 1$$
 
 The most important of these are the following:
 
-* [Midterm 1 Material](calc2_mt1/calc2_mt1.html)
-* [Midterm 2 Material](calc2_mt2/calc2_mt2.html)
-* [Midterm 3 Material](calc2_mt3/calc2_mt3.html)
-* [Final Exam Material](calc2_final/calc2_final.html)
+* [Midterm 1 Material](calc2/calc2_mt1/calc2_mt1.html)
+* [Midterm 2 Material](calc2/calc2_mt2/calc2_mt2.html)
+* [Midterm 3 Material](calc2/calc2_mt3/calc2_mt3.html)
+* [Final Exam Material](calc2/calc2_final/calc2_final.html)
 
 ## Navigation
 
