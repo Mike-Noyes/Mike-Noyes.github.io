@@ -2,7 +2,7 @@
 
 ## Quick Introduction
 
-This week we continue studying *First-Order Differential Equations* with a focus on *applications* and *advanced techniques*.  We explore how differential equations model real-world phenomena in biology, chemistry, physics, and engineering.
+This week we continue studying *first-order differential equations* with a focus on *applications* and *advanced techniques*.  We explore how differential equations model real-world phenomena in biology, chemistry, physics, and engineering.
 
 The most important topics this week are *applications of first-order equations*, *Euler's method*, and *equilibrium solutions*.  Please note that understanding equilibrium and stability helps us interpret long-term behavior of solutions.
 

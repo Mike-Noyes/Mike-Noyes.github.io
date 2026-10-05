@@ -2,7 +2,7 @@
 
 ## Quick Introduction
 
-This week we continue our study of *Matrices and Linear Systems*.  We will be focusing on properties of matrices such as determinants and inverses.  These properties help us understand when systems have unique solutions.
+This week we continue our study of *matrices and linear systems*.  We will be focusing on properties of matrices such as determinants and inverses.  These properties help us understand when systems have unique solutions.
 
 The most important concepts this week are *determinants*, *invertible matrices*, and *Cramer's Rule*.  Please note that determinants provide a useful criterion for invertibility and can be computed using several methods.
 

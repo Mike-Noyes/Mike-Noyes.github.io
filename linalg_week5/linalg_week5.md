@@ -2,7 +2,7 @@
 
 ## Quick Introduction
 
-This final week covers *Orthogonality and Applications*.  We explore orthogonal vectors, orthogonal subspaces, and orthogonal projections.  These concepts are essential for understanding least squares problems and many applications.
+This final week covers *orthogonality and applications*.  We explore orthogonal vectors, orthogonal subspaces, and orthogonal projections.  These concepts are essential for understanding least squares problems and many applications.
 
 The most important concepts are *orthogonal sets*, *orthonormal bases*, *orthogonal projections*, and *least squares*.  Please note that orthogonal bases make many computations simpler and more numerically stable.
 

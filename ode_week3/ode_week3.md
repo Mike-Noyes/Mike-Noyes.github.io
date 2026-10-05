@@ -2,7 +2,7 @@
 
 ## Quick Introduction
 
-This week focuses on *Higher-Order Linear Differential Equations*.  We explore the structure of solutions to linear equations and develop methods for finding particular solutions.  Higher-order equations model many complex physical systems.
+This week focuses on *higher-order linear differential equations*.  We explore the structure of solutions to linear equations and develop methods for finding particular solutions.  Higher-order equations model many complex physical systems.
 
 The most important topics are *characteristic equations*, *homogeneous solutions*, *particular solutions*, and *method of undetermined coefficients*.  Please note that the superposition principle is fundamental to linear equations.
 

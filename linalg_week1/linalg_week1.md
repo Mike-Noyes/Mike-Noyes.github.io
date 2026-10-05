@@ -2,14 +2,13 @@
 
 ## Quick Introduction
 
-Most of the material this week focuses on *Systems of Linear Equations* and *Matrices*.  We will be exploring how to represent and solve systems of equations using matrix notation and row operations.  Matrices are the **natural** way to organize and work with linear systems.
+Most of the material this week focuses on *systems of linear equations* and *matrices*.  We will be exploring how to represent and solve systems of equations using matrix notation and row operations.  Matrices are the **natural** way to organize and work with linear systems.
 
 The most important operations on matrices are *row reduction* and *matrix multiplication*.  Please note that matrix multiplication is not commutative, and careful attention to dimensions is required.
 
 After basic matrices, we study solution sets of linear systems.  These geometric objects give us insight into the structure of solutions.
 
 Given any system of linear equations, it is extremely useful to be able to *analyze* it in different ways.  **PLEASE NOTE** that the graphical, numerical, and algebraic approaches are all complementary.
-
 
 ## Course Material
 

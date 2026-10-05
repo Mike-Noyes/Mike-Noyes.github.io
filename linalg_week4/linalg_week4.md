@@ -2,7 +2,7 @@
 
 ## Quick Introduction
 
-This week we study *Eigenvalues and Eigenvectors*.  These are special vectors associated with matrices that reveal important geometric and algebraic properties.  Eigenvalues and eigenvectors are fundamental to applications throughout mathematics, physics, and engineering.
+This week we study *eigenvalues and eigenvectors*.  These are special vectors associated with matrices that reveal important geometric and algebraic properties.  Eigenvalues and eigenvectors are fundamental to applications throughout mathematics, physics, and engineering.
 
 The most important concepts are *characteristic polynomials*, *eigenvalues*, *eigenvectors*, and *diagonalization*.  Please note that not all matrices are diagonalizable, but understanding eigenvalues helps us understand the structure of any matrix.
 

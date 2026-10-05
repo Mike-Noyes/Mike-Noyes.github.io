@@ -2,7 +2,7 @@
 
 ## Quick Introduction
 
-This week focuses on *Vector Spaces and Linear Independence*.  We explore the fundamental concepts of span, linear independence, and basis.  These ideas form the foundation for understanding the structure of all vector spaces.
+This week focuses on *vector spaces and linear independence*.  We explore the fundamental concepts of span, linear independence, and basis.  These ideas form the foundation for understanding the structure of all vector spaces.
 
 The most important concepts are *linear independence*, *basis*, and *dimension*.  Please note that a basis is a set of linearly independent vectors that span the space, providing a coordinate system for the space.
 

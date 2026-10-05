@@ -11,6 +11,5 @@ The most important of these are the following:
 * [Week 3 Material](linalg_week3/linalg_week3.html)
 * [Week 4 Material](linalg_week4/linalg_week4.html)
 * [Week 5 Material](linalg_week5/linalg_week5.html)
-  
 
 * [Back to Home](index.html)

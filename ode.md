@@ -11,6 +11,5 @@ The most important of these are the following:
 * [Week 3 Material](ode_week3/ode_week3.html)
 * [Week 4 Material](ode_week4/ode_week4.html)
 * [Week 5 Material](ode_week5/ode_week5.html)
-  
 
 * [Back to Home](index.html)

@@ -2,7 +2,7 @@
 
 ## Quick Introduction
 
-This week we study *Systems of Differential Equations*.  Many real-world phenomena involve multiple quantities that interact with each other, requiring systems of equations to model properly.  Matrix methods provide powerful tools for analyzing these systems.
+This week we study *systems of differential equations*.  Many real-world phenomena involve multiple quantities that interact with each other, requiring systems of equations to model properly.  Matrix methods provide powerful tools for analyzing these systems.
 
 The most important topics are *linear systems*, *eigenvalue analysis*, *phase planes*, and *stability*.  Please note that eigenvalues determine the long-term behavior of solutions to linear systems.
 
