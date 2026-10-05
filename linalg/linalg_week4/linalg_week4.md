@@ -7,7 +7,7 @@ Week 4 continues the study of eigenspaces and related topics, emphasizing struct
 ## Course Material
 
 * [Desmos files](../../desmos/linalg_week4/week4_desmos_files.html)
-* [Formula Sheets and Notes](../../linalg_week4/linalg_week4_notes.html)
+* [Formula Sheets and Notes](linalg_week4_notes.html)
 
 ## Navigation
 

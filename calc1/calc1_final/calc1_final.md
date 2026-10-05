@@ -6,9 +6,9 @@ The final exam covers the core concepts from the semester, with emphasis on deri
 
 ## Course Material
 
-The following links will take you to some final exam materials:
+The following links will take you to final exam materials:
 
-* [Final Exam Notes](../../calc1_final/calc1_final.html)
+* [Final Exam Notes](calc1_final.html)
 
 ## Navigation
 

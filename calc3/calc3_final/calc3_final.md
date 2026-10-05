@@ -6,7 +6,7 @@ The final exam covers the central concepts from the entire course, with emphasis
 
 ## Course Material
 
-* [Final Exam Notes](../../calc3_final/calc3_final.html)
+* [Final Exam Notes](calc3_final.html)
 
 ## Navigation
 

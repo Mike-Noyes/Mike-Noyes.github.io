@@ -2,11 +2,11 @@
 
 ## Quick Introduction
 
-This section continues the study of *Integration* and *Applications* with emphasis on more advanced techniques and problem-solving strategies.
+This section continues the study of *Integration* with emphasis on more advanced techniques and applications.
 
 ## Course Material
 
-* [Course Notes](../../calc2_mt3/calc2_mt3_notes.html)
+* [Formula Sheets and Notes](calc2_mt3.html)
 
 ## Navigation
 

@@ -15,7 +15,7 @@ Given any function, it is extremely useful to be able to analyze it in different
 The following links will take you to some Desmos files and the notes that were handed-out in class:
 
 * [Desmos files](../../desmos/calc1_mt1/mt1_desmos_files.html)
-* [Formula Sheets and Notes](../../calc1_mt1/calc1_mt1_notes.html)
+* [Formula Sheets and Notes](calc1_mt1_notes.html)
 
 ## Navigation
 

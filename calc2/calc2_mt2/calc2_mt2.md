@@ -16,14 +16,14 @@ While they are all similar to the familiar ideas from the previous material, the
 The following links will take you to Desmos files related to what we've done or to PDFs that I've given out in class:
 
 * [Desmos links](../../desmos/calc2_mt2/mt2_desmos_files.html)
-* [Formula Sheets and Notes](../../calc2_mt2/calc2_mt2_notes.html)
+* [Formula Sheets and Notes](calc2_mt2_notes.html)
 
 ## Review Materials
 
 The following links will take you to some review material for Midterm 2.
 
-* [Worked Example Problems](../../calc2_mt2/calc2_mt2_examples.html)
-* [Review Problems](../../calc2_mt2/calc2_mt2_review.html)
+* [Worked Example Problems](calc2_mt2_examples.html)
+* [Review Problems](calc2_mt2_review.html)
 
 ## Navigation
 

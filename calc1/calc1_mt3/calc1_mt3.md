@@ -2,15 +2,13 @@
 
 ## Quick Introduction
 
-This section continues the study of *Calculus* with a focus on integration, accumulation, and the fundamental theorem of calculus.
-
-The most important ideas here are antiderivatives, definite integrals, and symbolic/numeric techniques for evaluating them.
+This section continues the study of *Integration* with emphasis on techniques and applications.
 
 ## Course Material
 
 The following links will take you to some class resources:
 
-* [Course Notes](../../calc1_mt3/calc1_mt3_notes.html)
+* [Formula Sheets and Notes](calc1_mt3_notes.html)
 
 ## Navigation
 

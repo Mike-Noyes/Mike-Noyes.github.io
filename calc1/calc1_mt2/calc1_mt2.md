@@ -2,9 +2,7 @@
 
 ## Quick Introduction
 
-We will continue the study of *Functions* and *Limits* during this section of the course. All of the usual notions that you are familiar with from previous material reappear here.
-
-This part of the course focuses on derivatives, applications of derivatives, and the connections between a function's graph and its behavior.
+We will continue the study of *Derivatives* and *Applications* during this section of the course. All of the usual notions that you are familiar with from previous material reappear here.
 
 The key ideas include the derivative as a rate of change, optimization, and modeling dynamic systems.
 
@@ -13,14 +11,14 @@ The key ideas include the derivative as a rate of change, optimization, and mode
 The following links will take you to Desmos files related to what we've done or to pdfs that I've given out in class:
 
 * [Desmos links](../../desmos/calc1_mt2/mt2_desmos_files.html)
-* [Formula Sheets and Notes](../../calc1_mt2/calc1_mt2_notes.html)
+* [Formula Sheets and Notes](calc1_mt2_notes.html)
 
 ## Review Materials
 
 The following links will take you to some review material for Midterm 2.
 
-* [Worked Example Problems](../../calc1_mt2/calc1_mt2_examples.html)
-* [Review Problems](../../calc1_mt2/calc1_mt2_review.html)
+* [Worked Example Problems](calc1_mt2_examples.html)
+* [Review Problems](calc1_mt2_review.html)
 
 ## Navigation
 

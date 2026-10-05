@@ -7,7 +7,7 @@ This week deepens the study of first-order equations by examining modeling assum
 ## Course Material
 
 * [Desmos files](../../desmos/ode_week2/week2_desmos_files.html)
-* [Formula Sheets and Notes](../../ode_week2/ode_week2_notes.html)
+* [Formula Sheets and Notes](ode_week2_notes.html)
 
 ## Navigation
 
