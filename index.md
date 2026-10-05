@@ -18,7 +18,11 @@ I can reached by email at <noyesmb@colorado.edu>.
 
 ## Teaching
 
+* [Go to the Calc 1 Page](calc1.html)
+* [Go to the Calc 2 Page](calc2.html)
 * [Go to the Calc 3 Page](calc3.html)
+* [Go to the Linear Algebra Page](linalg.html)
+* [Go to the Ordinary Differential Equations Page](ode.html)
 
 ## My Blog
 
