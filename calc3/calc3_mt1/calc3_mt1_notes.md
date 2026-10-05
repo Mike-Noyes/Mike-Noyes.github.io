@@ -9,6 +9,6 @@
 
   These links will return you to either the Midterm 1 Main Page or the Home page. 
 
-* [Back to Calc 3 Midterm 1 Page](../calc3_mt1/calc3_mt1.html)
+* [Back to Calc 3 Midterm 1 Page](calc3_mt1.html)
 * [Back to Calc 3 Home](../../calc3.html)
 * [Back to Home](../../index.html)
