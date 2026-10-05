@@ -1,9 +1,9 @@
 # These are links to the various files that I've either given out in class or emailed to you.
 
-* [Week 1 Notes (Vectors)](../files/calc3_week1_notes.pdf)
-* [Week 2 Notes (Lines and Planes)](../files/calc3_week2_notes.pdf)
-* [Week 3 Notes (Vector Functions)](../files/calc3_week3_notes.pdf)
-* [Midterm 1 Review Sheet](../files/calc3_mt1_topics.pdf)
+* [Week 1 Notes (Vectors)](../../files/calc3_week1_notes.pdf)
+* [Week 2 Notes (Lines and Planes)](../../files/calc3_week2_notes.pdf)
+* [Week 3 Notes (Vector Functions)](../../files/calc3_week3_notes.pdf)
+* [Midterm 1 Review Sheet](../../files/calc3_mt1_topics.pdf)
 
   ## Navigation
 
