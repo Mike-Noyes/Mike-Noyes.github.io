@@ -10,6 +10,7 @@ The most important of these are the following:
 * [Midterm 2 Material](calc3_mt2/calc3_mt2.html)
 * [Midterm 3 Material](calc3_mt3/calc3_mt3.html)
 * [Final Exam Material](calc3_final/calc3_final.html)
-  
+
+## Navigation
 
 * [Back to Home](index.html)
