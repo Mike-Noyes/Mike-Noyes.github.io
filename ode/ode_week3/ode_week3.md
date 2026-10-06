@@ -21,5 +21,5 @@ The following links will take you to Desmos files or to pdf's that I've given ou
 
 The following links take you back either to the ODE Main Page or the Home Page.
 
-* [Back to ODE](../ode.html)
-* [Back to Home](../index.html)
+* [Back to ODE](../../ode.html)
+* [Back to Home](../../index.html)
