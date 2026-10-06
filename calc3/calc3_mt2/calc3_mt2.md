@@ -17,7 +17,7 @@ For instance, in Calc 1 we saw that a limit exists if and only if the two one-si
 
 The following links will take you to Desmos 3D files related to what we've done or to pdf's that I've given out in class:
 
-* [Desmos links](../desmos/calc3_mt2/mt2_desmos_files.html)
+* [Desmos links](../../desmos/calc3_mt2/mt2_desmos_files.html)
 * [Formula Sheets and Notes](calc3_mt2_notes.html)
 
 ## Review Materials
