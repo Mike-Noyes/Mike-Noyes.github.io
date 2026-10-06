@@ -14,7 +14,7 @@ Given any first-order differential equation, we can *solve* it analytically if p
 
 The following links will take you to Desmos files or to pdf's that I've given out in class:
 
-* [Desmos links](../desmos/ode_week2/week2_desmos_files.html)
+* [Desmos links](../../desmos/ode_week2/week2_desmos_files.html)
 * [Formula Sheets and Notes](ode_week2_notes.html)
 
 ## Navigation
