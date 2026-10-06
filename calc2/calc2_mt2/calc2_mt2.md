@@ -17,7 +17,7 @@ For instance, in the previous section we saw that certain techniques work for sp
 
 The following links will take you to Desmos files related to what we've done or to pdf's that I've given out in class:
 
-* [Desmos links](../desmos/calc2_mt2/mt2_desmos_files.html)
+* [Desmos links](../../desmos/calc2_mt2/mt2_desmos_files.html)
 * [Formula Sheets and Notes](calc2_mt2_notes.html)
 
 ## Review Materials
