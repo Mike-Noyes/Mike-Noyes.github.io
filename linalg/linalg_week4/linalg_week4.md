@@ -14,7 +14,7 @@ Given any matrix, it is useful to find and *interpret* its eigenvalues and eigen
 
 The following links will take you to Desmos files or to pdf's that I've given out in class:
 
-* [Desmos links](../desmos/linalg_week4/week4_desmos_files.html)
+* [Desmos links](../../desmos/linalg_week4/week4_desmos_files.html)
 * [Formula Sheets and Notes](linalg_week4_notes.html)
 
 ## Navigation
