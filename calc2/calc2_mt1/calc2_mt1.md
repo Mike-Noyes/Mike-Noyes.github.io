@@ -11,13 +11,19 @@ After basic integration, the most important application we use is finding areas 
 Given any function, it is extremely useful to be able to *integrate* it in different ways.  **PLEASE NOTE** that integration techniques vary depending on the form of the function.
 
 
-## Course Material
+## Course Materials
 
+The following links will take you to Desmos files related to what we've done or to pdf's that I've given out in class:
 
-The following links will take you to some Desmos files and the notes that were handed-out in class:
-
-* [Desmos files](../../desmos/calc2_mt1/mt1_desmos_files.html)
+* [Desmos links](../../desmos/calc2_mt1/mt1_desmos_files.html)
 * [Formula Sheets and Notes](calc2_mt1_notes.html)
+
+## Review Materials
+
+The following links will take you to some review material for Midterm 2.
+
+* [Worked Example Problems](calc2_mt1_examples.html)
+* [Review Problems](calc2_mt1_review.html)
 
 ## Navigation
 
