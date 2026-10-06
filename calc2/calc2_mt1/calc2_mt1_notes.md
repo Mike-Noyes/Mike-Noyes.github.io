@@ -5,9 +5,9 @@
 * [Week 3 Notes (Integration by Parts)](../files/calc2_week3_notes.pdf)
 * [Midterm 1 Review Sheet](../files/calc2_mt1_topics.pdf)
 
-  ## Navigation
+## Navigation
 
-  These links will return you to either the Midterm 1 Main Page or the Home page. 
+These links will return you to either the Midterm 1 Main Page or the Home page. 
 
 * [Back to Calc 2 Midterm 1 Page](calc2_mt1.html)
 * [Back to Calc 2 Home](../../calc2.html)
