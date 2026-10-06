@@ -14,7 +14,7 @@ Given any subspace, it is useful to find an *orthonormal basis* and to compute *
 
 The following links will take you to Desmos files or to pdf's that I've given out in class:
 
-* [Desmos links](../desmos/linalg_week5/week5_desmos_files.html)
+* [Desmos links](../../desmos/linalg_week5/week5_desmos_files.html)
 * [Formula Sheets and Notes](linalg_week5_notes.html)
 
 ## Navigation
