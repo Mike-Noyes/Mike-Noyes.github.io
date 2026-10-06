@@ -14,7 +14,7 @@ Given any matrix, it is useful to be able to *characterize* its properties syste
 
 The following links will take you to Desmos files related to what we've done or to pdf's that I've given out in class:
 
-* [Desmos links](../desmos/linalg_week2/week2_desmos_files.html)
+* [Desmos links](../../desmos/linalg_week2/week2_desmos_files.html)
 * [Formula Sheets and Notes](linalg_week2_notes.html)
 
 ## Navigation
