@@ -21,5 +21,5 @@ The following links will take you to some Desmos files and the notes that were h
 
 The following links will return you either to the Linear Algebra Main Page or the Home Page:
 
-* [Back to Linear Algebra](../linalg.html)
-* [Back to Home](../index.html)
+* [Back to Linear Algebra](../../linalg.html)
+* [Back to Home](../../index.html)
