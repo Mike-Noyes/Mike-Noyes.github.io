@@ -16,7 +16,7 @@ Given any function, it is extremely useful to be able to *integrate* it in diffe
 
 The following links will take you to some Desmos files and the notes that were handed-out in class:
 
-* [Desmos files](../desmos/calc2_mt1/mt1_desmos_files.html)
+* [Desmos files](../../desmos/calc2_mt1/mt1_desmos_files.html)
 * [Formula Sheets and Notes](calc2_mt1_notes.html)
 
 ## Navigation
