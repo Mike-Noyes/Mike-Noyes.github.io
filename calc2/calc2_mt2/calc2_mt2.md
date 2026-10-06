@@ -31,5 +31,5 @@ The following links will take you to some review material for Midterm 2.
 
 The following links take you back either to the Calc 2 Main Page or the Home Page.
 
-* [Back to Calc 2](../calc2.html)
-* [Back to Home](../index.html)
+* [Back to Calc 2](../../calc2.html)
+* [Back to Home](../../index.html)
