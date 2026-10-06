@@ -14,7 +14,7 @@ Given any set of vectors, it is useful to determine whether they are *linearly i
 
 The following links will take you to Desmos files or to pdf's that I've given out in class:
 
-* [Desmos links](../desmos/linalg_week3/week3_desmos_files.html)
+* [Desmos links](../../desmos/linalg_week3/week3_desmos_files.html)
 * [Formula Sheets and Notes](linalg_week3_notes.html)
 
 ## Navigation
