@@ -13,6 +13,6 @@
 
 The following links will take you back to the Calc 2 Midterm 2 Main Page or the Home Page.
 
-* [Back to Calc 2 Midterm 2 Page](../../calc2_mt2/calc2_mt2.html)
+* [Back to Calc 2 Midterm 2 Page](../../../calc2/calc2_mt2/calc2_mt2.html)
 * [Back to Calc 2 Home](../../calc2.html)
 * [Back to Home](../../index.html)
