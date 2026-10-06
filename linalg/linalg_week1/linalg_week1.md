@@ -14,7 +14,7 @@ Given any system of linear equations, it is extremely useful to be able to *anal
 
 The following links will take you to some Desmos files and the notes that were handed-out in class:
 
-* [Desmos files](../desmos/linalg_week1/week1_desmos_files.html)
+* [Desmos files](../../desmos/linalg_week1/week1_desmos_files.html)
 * [Formula Sheets and Notes](linalg_week1_notes.html)
 
 ## Navigation
