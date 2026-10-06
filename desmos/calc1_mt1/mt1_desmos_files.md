@@ -25,6 +25,6 @@ I've updated these to include notes to explain what's going on a little bit.
 
 These links will take you back to either the Midterm 1 Main Page or the Home Page.
 
-* [Back to Calc 1 Midterm 1 Page](../../calc1/calc1_mt1/calc1_mt1.html)
+* [Back to Calc 1 Midterm 1 Page](../../../calc1/calc1_mt1/calc1_mt1.html)
 * [Back to Calc 1 Home](../../calc1.html)
 * [Back to Home Page](../../index.html)
