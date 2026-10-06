@@ -14,7 +14,7 @@ Given any initial value problem, we can use the *Laplace transform* to find solu
 
 The following links will take you to Desmos files or to pdf's that I've given out in class:
 
-* [Desmos links](../desmos/ode_week5/week5_desmos_files.html)
+* [Desmos links](../../desmos/ode_week5/week5_desmos_files.html)
 * [Formula Sheets and Notes](ode_week5_notes.html)
 
 ## Navigation
