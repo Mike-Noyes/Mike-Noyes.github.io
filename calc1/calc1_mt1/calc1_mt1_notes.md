@@ -5,9 +5,9 @@
 * [Week 3 Notes (Derivatives)](../files/calc1_week3_notes.pdf)
 * [Midterm 1 Review Sheet](../files/calc1_mt1_topics.pdf)
 
-  ## Navigation
+## Navigation
 
-  These links will return you to either the Midterm 1 Main Page or the Home page. 
+These links will return you to either the Midterm 1 Main Page or the Home page. 
 
 * [Back to Calc 1 Midterm 1 Page](../calc1_mt1/calc1_mt1.html)
 * [Back to Calc 1 Home](../../calc1.html)
