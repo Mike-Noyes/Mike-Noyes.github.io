@@ -14,7 +14,7 @@ Given any system of differential equations, we can use *eigenvalues and eigenvec
 
 The following links will take you to Desmos files or to pdf's that I've given out in class:
 
-* [Desmos links](../desmos/ode_week4/week4_desmos_files.html)
+* [Desmos links](../../desmos/ode_week4/week4_desmos_files.html)
 * [Formula Sheets and Notes](ode_week4_notes.html)
 
 ## Navigation
