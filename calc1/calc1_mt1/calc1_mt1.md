@@ -24,5 +24,5 @@ The following links will take you to some Desmos files and the notes that were h
   The following links will return you either to the Calc 1 Main Page or the Home Page:
 
 
-* [Back to Calc 1](../calc1.html)
-* [Back to Home](../index.html)
+* [Back to Calc 1](../../calc1.html)
+* [Back to Home](../../index.html)
