@@ -2,20 +2,24 @@
 
 ## Quick Introduction
 
-Most of the material this week focuses on *systems of linear equations* and *matrices*. We will be exploring how to represent and solve systems of equations using matrix notation and row operations.
+Most of the material this week focuses on *systems of linear equations* and *matrices*.  We will be exploring how to represent and solve systems of equations using matrix notation and row operations.  Matrices are the **natural** way to organize and work with linear systems.
 
-The most important operations on matrices are *row reduction* and *matrix multiplication*. Please note that matrix multiplication is not commutative, and careful attention to dimensions is required.
+The most important operations on matrices are *row reduction* and *matrix multiplication*.  Please note that matrix multiplication is not commutative, and careful attention to dimensions is required.
+
+After basic matrices, we study solution sets of linear systems.  These geometric objects give us insight into the structure of solutions.
+
+Given any system of linear equations, it is extremely useful to be able to *analyze* it in different ways.  **PLEASE NOTE** that the graphical, numerical, and algebraic approaches are all complementary.
 
 ## Course Material
 
 The following links will take you to some Desmos files and the notes that were handed-out in class:
 
-* [Desmos files](../../desmos/linalg_week1/week1_desmos_files.html)
+* [Desmos files](../desmos/linalg_week1/week1_desmos_files.html)
 * [Formula Sheets and Notes](linalg_week1_notes.html)
 
 ## Navigation
 
 The following links will return you either to the Linear Algebra Main Page or the Home Page:
 
-* [Back to Linear Algebra](../../linalg.html)
-* [Back to Home](../../index.html)
+* [Back to Linear Algebra](../linalg.html)
+* [Back to Home](../index.html)
