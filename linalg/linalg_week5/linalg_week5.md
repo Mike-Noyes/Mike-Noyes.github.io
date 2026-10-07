@@ -2,13 +2,11 @@
 
 ## Quick Introduction
 
-This final week covers *orthogonality and applications*.  We explore orthogonal vectors, orthogonal subspaces, and orthogonal projections.  These concepts are essential for understanding least squares problems and many applications.
+This final week covers *Positive Definite Matrices*.  These matrices have a wide variety of very special features that make them particularly interesting from a mathematical point of view and also particularly useful in applications.
 
-The most important concepts are *orthogonal sets*, *orthonormal bases*, *orthogonal projections*, and *least squares*.  Please note that orthogonal bases make many computations simpler and more numerically stable.
+In a nice return to where we started, we will consider again row reduction and matrix factorization.  It turns out that if all of the pivots of the matrix are **positive** then very nice things happen.  Not surprisingly, the class of matrices for which this happens are the positive definite matrices.
 
-After understanding orthogonality, we see how these ideas connect to applications in data science, statistics, and engineering.  The Gram-Schmidt process provides a method to construct orthonormal bases.
-
-Given any subspace, it is useful to find an *orthonormal basis* and to compute *orthogonal projections*.  **PLEASE NOTE** that orthogonal methods often provide more elegant solutions to practical problems.
+We will also look at the connection to quadratic forms and the seemingly unrelated technique of completing the square.  There is a surprisingly rich amount of interplay between these ideas and we will explore as many of them as we can in the time we have left.
 
 ## Course Materials
 
