@@ -2,13 +2,13 @@
 
 ## Quick Introduction
 
-This week we continue our study of *matrices and linear systems*.  We will be focusing on properties of matrices such as determinants and inverses.  These properties help us understand when systems have unique solutions.
+This week focuses on *vector spaces and linear independence*.  We explore the fundamental concepts of span, linear independence, and basis.  These ideas form the foundation for understanding the structure of all vector spaces.
 
-The most important concepts this week are *determinants*, *invertible matrices*, and *Cramer's Rule*.  Please note that determinants provide a useful criterion for invertibility and can be computed using several methods.
+The most important concepts are *linear independence*, *basis*, and *dimension*.  Please note that a basis is a set of linearly independent vectors that span the space, providing a coordinate system for the space.
 
-After understanding matrix properties, we explore vector spaces and subspaces.  These abstract structures unify our understanding of linear algebra.
+After understanding the structure of vector spaces, we look at subspaces and how they relate to solutions of homogeneous systems.  This connection reveals the deep structure of linear algebra.
 
-Given any matrix, it is useful to be able to *characterize* its properties systematically.  **PLEASE NOTE** that computational and theoretical approaches both have value.
+Given any set of vectors, it is useful to determine whether they are *linearly independent* and whether they form a basis.  **PLEASE NOTE** that both computational and geometric understanding are important.
 
 ## Course Materials
 
