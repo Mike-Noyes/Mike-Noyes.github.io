@@ -8,6 +8,14 @@ The most important topics this week are *separable equations*, *linear first-ord
 
 After learning basic solution methods, we see how to *interpret* solutions geometrically and numerically.  These approaches complement each other.
 
+We continue studying *first-order differential equations* with a focus on *applications* and *advanced techniques*.  We explore how differential equations model real-world phenomena in biology, chemistry, physics, and engineering.
+
+The most important topics this week are *applications of first-order equations*, *Euler's method*, and *equilibrium solutions*.  Please note that understanding equilibrium and stability helps us interpret long-term behavior of solutions.
+
+After seeing applications, we develop deeper understanding of solution behavior.  Numerical and graphical methods become increasingly important.
+
+Given any first-order differential equation, we can *solve* it analytically if possible, or *approximate* it numerically.  **PLEASE NOTE** that numerical methods are often essential in practice.
+
 Given any first-order differential equation, it is useful to *analyze* it in multiple ways.  **PLEASE NOTE** that graphical, numerical, and analytical approaches all provide valuable insights.
 
 ## Course Material
