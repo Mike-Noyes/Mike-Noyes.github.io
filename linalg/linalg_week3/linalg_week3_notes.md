@@ -1,6 +1,6 @@
 # These are links to the various files that I've either given out in class or emailed to you.
 
-* [Week 1 Notes (Systems and Matrices)](../../files/linalg_week3.pdf)
+* [Week 1 Notes (Orthogonality)](../../files/linalg_week3.pdf)
   
 
 ## Navigation
