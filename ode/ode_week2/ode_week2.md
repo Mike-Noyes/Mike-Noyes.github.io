@@ -2,13 +2,13 @@
 
 ## Quick Introduction
 
-This week we continue studying *first-order differential equations* with a focus on *applications* and *advanced techniques*.  We explore how differential equations model real-world phenomena in biology, chemistry, physics, and engineering.
+This week we study *systems of differential equations*.  Many real-world phenomena involve multiple quantities that interact with each other, requiring systems of equations to model properly.  Matrix methods provide powerful tools for analyzing these systems.
 
-The most important topics this week are *applications of first-order equations*, *Euler's method*, and *equilibrium solutions*.  Please note that understanding equilibrium and stability helps us interpret long-term behavior of solutions.
+The most important topics are *linear systems*, *eigenvalue analysis*, *phase planes*, and *stability*.  Please note that eigenvalues determine the long-term behavior of solutions to linear systems.
 
-After seeing applications, we develop deeper understanding of solution behavior.  Numerical and graphical methods become increasingly important.
+After understanding linear systems, we explore phase plane analysis and equilibrium points.  These geometric tools provide deep insight into solution behavior.
 
-Given any first-order differential equation, we can *solve* it analytically if possible, or *approximate* it numerically.  **PLEASE NOTE** that numerical methods are often essential in practice.
+Given any system of differential equations, we can use *eigenvalues and eigenvectors* to understand its dynamics.  **PLEASE NOTE** that geometric intuition is as important as algebraic computation.
 
 ## Course Materials
 
