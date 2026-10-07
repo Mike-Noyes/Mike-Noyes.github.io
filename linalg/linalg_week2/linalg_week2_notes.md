@@ -1,7 +1,12 @@
-# This is material that will be included on Week 2.
+# These are links to the various files that I've either given out in class or emailed to you.
+
+* [Week 1 Notes (Systems and Matrices)](../../files/linalg_week2.pdf)
+  
 
 ## Navigation
 
-* [Back to the Week 2 Page](../linalg_week2/linalg_week2.html)
-* [Back to the Linear Algebra Main Page](../linalg.html)
-* [Back to Home](../index.html)
+These links will return you to either the Week 2 Main Page or the Home page.
+
+* [Back to Linear Algebra Week 2 Page](linalg_week2.html)
+* [Back to Linear Algebra Home](../../linalg.html)
+* [Back to Home](../../index.html)
