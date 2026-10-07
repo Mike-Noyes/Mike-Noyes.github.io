@@ -1,6 +1,6 @@
 # These are links to the various files that I've either given out in class or emailed to you.
 
-* [Week 1 Notes (Positive Definite Matrices)](../../files/linalg_week5.pdf)
+* [Week 5 Notes (Positive Definite Matrices)](../../files/linalg_week5.pdf)
   
 
 ## Navigation
