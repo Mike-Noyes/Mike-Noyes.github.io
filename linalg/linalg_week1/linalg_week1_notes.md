@@ -5,7 +5,7 @@
 
 ## Navigation
 
-These links will return you to either the Week 1 Main Page or the Home page.
+These links will return you to either the Week 1 Main Page, the Linear Algebra Home, or the Home page.
 
 * [Back to Linear Algebra Week 1 Page](linalg_week1.html)
 * [Back to Linear Algebra Home](../../linalg.html)
