@@ -2,7 +2,7 @@
 
 ## Quick Introduction
 
-This final week covers *Laplace transforms and applications*.  The Laplace transform is a powerful tool for solving differential equations, especially those with discontinuous forcing functions or complex initial conditions.  This transform converts differential equations into algebraic equations.
+This week covers *Laplace transforms and applications*.  The Laplace transform is a powerful tool for solving differential equations, especially those with discontinuous forcing functions or complex initial conditions.  This transform converts differential equations into algebraic equations.
 
 The most important topics are *Laplace transforms*, *inverse transforms*, *solving IVPs with Laplace transforms*, and *transfer functions*.  Please note that the Laplace transform is particularly useful for problems with piecewise-defined inputs.
 
