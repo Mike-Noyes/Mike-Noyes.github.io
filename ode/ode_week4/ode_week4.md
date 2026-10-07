@@ -2,13 +2,7 @@
 
 ## Quick Introduction
 
-This week we study *systems of differential equations*.  Many real-world phenomena involve multiple quantities that interact with each other, requiring systems of equations to model properly.  Matrix methods provide powerful tools for analyzing these systems.
-
-The most important topics are *linear systems*, *eigenvalue analysis*, *phase planes*, and *stability*.  Please note that eigenvalues determine the long-term behavior of solutions to linear systems.
-
-After understanding linear systems, we explore phase plane analysis and equilibrium points.  These geometric tools provide deep insight into solution behavior.
-
-Given any system of differential equations, we can use *eigenvalues and eigenvectors* to understand its dynamics.  **PLEASE NOTE** that geometric intuition is as important as algebraic computation.
+This week we study *nonlinear equations and systems of nonlinear equations*.
 
 ## Course Materials
 
