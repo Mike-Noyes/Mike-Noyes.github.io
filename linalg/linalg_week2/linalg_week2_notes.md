@@ -1,6 +1,6 @@
 # These are links to the various files that I've either given out in class or emailed to you.
 
-* [Week 1 Notes (Vector Spaces and Linear Transformations)](../../files/linalg_week2.pdf)
+* [Week 2 Notes (Vector Spaces and Linear Transformations)](../../files/linalg_week2.pdf)
   
 
 ## Navigation
