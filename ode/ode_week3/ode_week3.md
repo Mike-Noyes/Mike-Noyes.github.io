@@ -2,13 +2,13 @@
 
 ## Quick Introduction
 
-This week focuses on *higher-order linear differential equations*.  We explore the structure of solutions to linear equations and develop methods for finding particular solutions.  Higher-order equations model many complex physical systems.
+This week covers *Laplace transforms and applications*.  The Laplace transform is a powerful tool for solving differential equations, especially those with discontinuous forcing functions or complex initial conditions.  This transform converts differential equations into algebraic equations.
 
-The most important topics are *characteristic equations*, *homogeneous solutions*, *particular solutions*, and *method of undetermined coefficients*.  Please note that the superposition principle is fundamental to linear equations.
+The most important topics are *Laplace transforms*, *inverse transforms*, *solving IVPs with Laplace transforms*, and *transfer functions*.  Please note that the Laplace transform is particularly useful for problems with piecewise-defined inputs.
 
-After understanding solution structure, we see how to handle various forcing functions and initial conditions.  The general solution combines homogeneous and particular parts.
+After learning the Laplace transform method, we see how it connects to frequency-domain analysis and system response.  These ideas extend naturally to engineering applications.
 
-Given any linear differential equation, we can *systematically find* its solution using established techniques.  **PLEASE NOTE** that both the structure and the specific methods matter.
+Given any initial value problem, we can use the *Laplace transform* to find solutions efficiently.  **PLEASE NOTE** that this method is especially powerful for problems with complicated driving forces.
 
 ## Course Materials
 
