@@ -2,13 +2,13 @@
 
 ## Quick Introduction
 
-This week focuses on *vector spaces and linear independence*.  We explore the fundamental concepts of span, linear independence, and basis.  These ideas form the foundation for understanding the structure of all vector spaces.
+This week covers *orthogonality and applications*.  We explore orthogonal vectors, orthogonal subspaces, and orthogonal projections.  These concepts are essential for understanding least squares problems and many applications.
 
-The most important concepts are *linear independence*, *basis*, and *dimension*.  Please note that a basis is a set of linearly independent vectors that span the space, providing a coordinate system for the space.
+The most important concepts are *orthogonal sets*, *orthonormal bases*, *orthogonal projections*, and *least squares*.  Please note that orthogonal bases make many computations simpler and more numerically stable.
 
-After understanding the structure of vector spaces, we look at subspaces and how they relate to solutions of homogeneous systems.  This connection reveals the deep structure of linear algebra.
+After understanding orthogonality, we see how these ideas connect to applications in data science, statistics, and engineering.  The Gram-Schmidt process provides a method to construct orthonormal bases.
 
-Given any set of vectors, it is useful to determine whether they are *linearly independent* and whether they form a basis.  **PLEASE NOTE** that both computational and geometric understanding are important.
+Given any subspace, it is useful to find an *orthonormal basis* and to compute *orthogonal projections*.  **PLEASE NOTE** that orthogonal methods often provide more elegant solutions to practical problems.
 
 ## Course Materials
 
