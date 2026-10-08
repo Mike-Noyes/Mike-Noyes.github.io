@@ -2,13 +2,13 @@
 
 ## Quick Introduction
 
-This week covers *Higher Order Equations* with an emphasis on the *matrix exponential*.  We will also look at some more advanced topics, such as *limit cycles*.
+This week covers *Higher Order Equations* with an emphasis on the *matrix exponential*.  We will also look at some more advanced topics, such as *limit cycles* and *Hopf bifurcations*.
 
 ## Course Materials
 
-The following links will take you to Desmos files or to pdf's that I've given out in class:
+The following links will take you to Sage cells or to pdf's that I've given out in class:
 
-* [Desmos links](../../desmos/ode_week5/week5_desmos_files.html)
+* [Sage Cells](ode_week5_sage.html)
 * [Formula Sheets and Notes](ode_week5_notes.html)
 
 ## Navigation
