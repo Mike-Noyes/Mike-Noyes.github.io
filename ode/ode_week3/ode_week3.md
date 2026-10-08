@@ -12,9 +12,9 @@ Given any initial value problem, we can use the *Laplace transform* to find solu
 
 ## Course Materials
 
-The following links will take you to Desmos files or to pdf's that I've given out in class:
+The following links will take you to Sage links or to pdf's that I've given out in class:
 
-* [Desmos links](../../desmos/ode_week3/week3_desmos_files.html)
+* [Sage Links](ode_week3_sage.html)
 * [Formula Sheets and Notes](ode_week3_notes.html)
 
 ## Navigation
