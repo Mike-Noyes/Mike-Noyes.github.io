@@ -20,9 +20,9 @@ Given any first-order differential equation, it is useful to *analyze* it in mul
 
 ## Course Material
 
-The following links will take you to some Desmos files and the notes that were handed-out in class:
+The following links will take you to some Sage cells and the notes that were handed-out in class:
 
-* [Desmos files](../../desmos/ode_week1/week1_desmos_files.html)
+* [Sage Links](ode_week1_sage.html)
 * [Formula Sheets and Notes](ode_week1_notes.html)
 
 ## Navigation
