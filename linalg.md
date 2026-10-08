@@ -12,7 +12,7 @@ The most important of these are the following:
 * [Week 4 Material](linalg/linalg_week4/linalg_week4.html)
 * [Week 5 Material](linalg/linalg_week5/linalg_week5.html)
 
-## Sage
+## Sage and other Resources
 
 We will be using Sage extensively in this course.  Trust me, you will want to get good at using some kind of mathematical software to work with matrices.  The alternative is to do everything by hand, which is not really a feasible alternative.
 
