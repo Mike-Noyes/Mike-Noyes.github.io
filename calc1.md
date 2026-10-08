@@ -15,7 +15,7 @@ The most important of these are the following:
 
 In order to actually understand a subject, you have to be able to **do** something meaningful with the subject.  For mathematics, at the undergraduate level, this means solving **real** problems (which aren't always the same as hard problems, though sometimes they are).  The link below will take you to a page of 100 Calc 1 problems (eventually!) that any true student of Calc 1 should be able to solve.  These are nontrivial.  They will probably take you a long time, but it will be worth it.  Happy solving!
 
-[The Calc 1 100](\calc1\calc1_100.html)
+* [The Calc 1 100](\calc1\calc1_100.html)
 
 ## Navigation
 
