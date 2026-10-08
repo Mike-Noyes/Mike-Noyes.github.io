@@ -6,9 +6,7 @@
 
 This visualizes the Hopf Bifurcation that occurs in the system
 
-$$x'=cx + 5y - x(x^2+y^2)$$
-
-$$y'=-5x + cy - y(x^2+y^2)$$
+$$x'=cx + 5y - x(x^2+y^2)// y'=-5x + cy - y(x^2+y^2)$$
 
 for different values of $c$.
 
