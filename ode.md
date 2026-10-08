@@ -46,9 +46,9 @@ Here’s a page with some interesting interactive Sage cells.  Not all of these 
 
 These are pdfs of concise Sage references.  They are fairly self-explanatory.  These can be printed and kept ready at hand to get you through most anything that you'll need (or want) to do with Sage for this course.
 
-[General Reference](files/sage_general.pdf)
-[Calculus Reference](files/sage_calculus.pdf)
-[Linear Algebra Reference](files/sage_linalg.pdf)
+* [General Reference](files/sage_general.pdf)
+* [Calculus Reference](files/sage_calculus.pdf)
+* [Linear Algebra Reference](files/sage_linalg.pdf)
 
 
 
