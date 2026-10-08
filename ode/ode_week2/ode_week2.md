@@ -12,9 +12,9 @@ Given any system of differential equations, we can use *eigenvalues and eigenvec
 
 ## Course Materials
 
-The following links will take you to Desmos files or to pdf's that I've given out in class:
+The following links will take you to Sage cells or to pdf's that I've given out in class:
 
-* [Desmos links](../../desmos/ode_week2/week2_desmos_files.html)
+* [Sage links](ode_week2_sage.html)
 * [Formula Sheets and Notes](ode_week2_notes.html)
 
 ## Navigation
