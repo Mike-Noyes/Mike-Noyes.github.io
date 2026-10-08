@@ -1,6 +1,6 @@
 # Sage Cells Related To This Week's Material
 
-**Please Note:** When you click on the links you will be taken directly to the webpage.  If you want to open the link in a new page, you have to ctrl+click and select "Open link in new page" or right-click on the link.  If you end up on the Sage page and want to navigate back to this webpage, click on the back arrow in your browser.
+**Please Note:** When you click on the links you will be taken directly to the webpage.  If you want to open the link in a new page, you have to ctrl+click and select "Open Link in New Tab" or right-click on the link.  If you end up on the Sage page and want to navigate back to this webpage, click on the back arrow in your browser.
 
 ## Links to Sage Cells
 
