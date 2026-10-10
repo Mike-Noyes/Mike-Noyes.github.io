@@ -45,6 +45,9 @@ Here are some pdfs that contain a very concise summary of all of the Sage comman
 
 ## Navigation
 
+The links below will take you back to the Linear Algebra Main page or the Home page.
+
+* [Back to Linear Algebra](../linalg.html)
 * [Back to Home](../index.html)
 
 
