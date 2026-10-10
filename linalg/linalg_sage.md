@@ -27,7 +27,6 @@ Here’s a page with some interesting interactive Sage cells.  The most importan
 Here are some more Sage tutorials.  The first one is mainly a bunch of examples about specific topics and includes tons of sample calculations.  I have linked it directly to the main topic page for Linear Algebra.  If you want to see some of the other topics available, click on the topics tab at the top of the page.  The second is a very good general overview of Sage and there is a section about Linear Algebra.
 
 * [Sage Cell Repository](http://sage-cell-repository.wikidot.com/linear-algebra)
-
 * [SDSU Sage Tutorial](https://mosullivan.sdsu.edu/sagetutorial/index.html)
 
 ## Files
