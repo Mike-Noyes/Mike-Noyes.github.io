@@ -30,7 +30,7 @@ I can reached by email at <noyesmb@colorado.edu>.
 ## Other Links
 
 * [Math Projects](projects/projects.html)
-* [Math Links and Resources]()
+* [Math Related Links and Resources](math_related/math_related.html)
 * [Misc]()
 
 ## My Blog
