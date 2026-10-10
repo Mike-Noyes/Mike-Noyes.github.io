@@ -25,5 +25,5 @@ There are an unbelievable amount of freely available resources on the Web.  Thes
 
 The links below will take you back to the ODE Main page or the Home page.
 
-* [Back to ODE Main Page](../ode/html)
+* [Back to ODE Main Page](../ode.html)
 * [Back to Home](../index.html)
