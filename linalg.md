@@ -12,7 +12,11 @@ The most important of these are the following:
 * [Week 4 Material](linalg/linalg_week4/linalg_week4.html)
 * [Week 5 Material](linalg/linalg_week5/linalg_week5.html)
 
-## Sage and other Resources
+## Resources for the Course
+
+The links below will take you to pages that contain many (MANY) resources related to Linear Algebra.  
+
+* [Sage Resources](linalg/linalg_sage.html)
 
 We will be using Sage extensively in this course.  Trust me, you will want to get good at using some kind of mathematical software to work with matrices.  The alternative is to do everything by hand, which is not really a feasible alternative.
 
@@ -61,3 +65,5 @@ Here are some pdfs that contain a very concise summary of all of the Sage comman
 ## Navigation
 
 * [Back to Home](index.html)
+
+
