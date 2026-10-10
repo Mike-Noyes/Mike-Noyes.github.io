@@ -43,5 +43,8 @@ Here are some pdfs that contain a very concise summary of all of the Sage comman
 * [Calculus Reference](../files/sage_calculus.pdf)
 * [Linear Algebra Reference](../files/sage_linalg.pdf)
 
+## Navigation
+
+* [Back to Home](../index.html)
 
 
