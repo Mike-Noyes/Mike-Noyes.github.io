@@ -1,5 +1,5 @@
 
-# Home Page for the Teaching Website of Mike Noyes
+# Home Page for the Math Website of Mike Noyes
 
 I began this website as a place to gather all of the various materials that I have accumulated over the years teaching undergraduate math courses at CU Boulder.  My intention is that it will provide a unified place for students to find material related to courses that they are taking.  It is **NOT** designed to teach the material from scratch.  That's what the actual courses are for!  It is meant to supplement these courses, and to hopefully help students make their way through some fascinating but sometimes difficult mathematical ideas.  This is a work in progress.
 
