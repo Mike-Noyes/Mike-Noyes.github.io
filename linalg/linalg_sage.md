@@ -4,38 +4,33 @@ We will be using Sage extensively in this course.  Trust me, you will want to ge
 
 Here are some links and some files that will help you get started with Sage, with a focus on using Sage for Linear Algebra.
 
-### Links
+## Links
 
 Here are some useful Sage links for the course.
 
 
 The main Sage cell page.  This only gives you one active cell, but for simple problems this is all that you’ll need.
 
-[Sagecell](https://sagecell.sagemath.org/)
+* [Sagecell](https://sagecell.sagemath.org/)
 
 
 A page of Sage cells.  The nice thing about this is functions and matrices and various other things defined in one cell are callable in all other cells.  This can be very useful, especially if you’re working through a multi-step problem.
 
-[Page of Sagecells](https://understandinglinearalgebra.org/sage/sage.html)
-
-
-A matrix calculator.  I can’t emphasize enough how easy this is to use for all things matrix-related.  Check it out!
-
-[Matrix Calculator](https://matrixcalc.org/)
+* [Page of Sagecells](https://understandinglinearalgebra.org/sage/sage.html)
 
 
 Here’s a page with some interesting interactive Sage cells.  The most important for this class are 3, 7, 8, 9.  You can learn a lot of Sage by looking through these demos.
 
-[Sagemath Wiki](https://wiki.sagemath.org/interact/linear_algebra)
+* [Sagemath Wiki](https://wiki.sagemath.org/interact/linear_algebra)
 
 
 Here are some more Sage tutorials.  The first one is mainly a bunch of examples about specific topics and includes tons of sample calculations.  I have linked it directly to the main topic page for Linear Algebra.  If you want to see some of the other topics available, click on the topics tab at the top of the page.  The second is a very good general overview of Sage and there is a section about Linear Algebra.
 
-[Sage Cell Repository](http://sage-cell-repository.wikidot.com/linear-algebra)
+* [Sage Cell Repository](http://sage-cell-repository.wikidot.com/linear-algebra)
 
-[SDSU Sage Tutorial](https://mosullivan.sdsu.edu/sagetutorial/index.html)
+* [SDSU Sage Tutorial](https://mosullivan.sdsu.edu/sagetutorial/index.html)
 
-### Files
+## Files
 
 Here are some pdfs that contain a very concise summary of all of the Sage commands that we will need for this course.
 
