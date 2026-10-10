@@ -7,6 +7,8 @@
 
 ## Math Books and Articles
 
+* [Math Books and Articles](math_books.html)
+
 
 ## Uncategorizable
 
