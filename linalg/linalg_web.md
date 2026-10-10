@@ -48,7 +48,7 @@ After Strang's book mentioned above, my personal favorite Linear Algebra text is
 
 
 
-## Usefull Tools
+## Useful Tools
 
 A matrix calculator.  I can’t emphasize enough how easy this is to use for all things matrix-related.  Check it out!
 
