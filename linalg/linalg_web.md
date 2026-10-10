@@ -63,6 +63,10 @@ There are a ton of computational tools at the Linear Algebra Toolkit website.  I
 
 ## Misc
 
+Kenji Hiranabe has created some incredible visualizations of some of the most basic and important ideas in Linear Algebra.  They are collected in his GitHub Repo linked below.  English speakers will want to look at the "Art of Linear Algebra", "Map of Eigenvalues," and "Matrix World" pdfs.  They are beautiful.  If you understand Japanese (which I don't!) then you should also check out the Japanese versions.
+
+* [Kenji Hiranabe: *The Art of Linear Algebra* GitHub Repo](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/tree/main)
+
 
 
 ## Navigation
