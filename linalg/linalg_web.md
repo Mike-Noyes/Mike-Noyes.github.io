@@ -69,6 +69,16 @@ Kenji Hiranabe has created some incredible visualizations of some of the most ba
 
 * [Kenji Hiranabe: *The Art of Linear Algebra* GitHub Repo](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/tree/main)
 
+Grant Sanderson has been creating some of the most amazing mathematical content available through his 3Blue1Brown YouTube videos.  He has a playlist on "The Essence of Linear Algebra."  If you like videos and watching incredible visualizations, these are the place to go.  He has hundreds of videos on all sorts of mathematical topics and they all are worth watching.
+
+* [3Blue1Brown: *The Essence of Linear Algebra* YouTube Videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+If you're interested in learning more about how those videos were made, you'll want to learn about Manin.  There are two main versions, those maintained by Grant Sanderson, which is what he uses to make all of the animations in the 3b1b videos, and the Manin Community version, which is forked from Sanderson's.  The two versions are not entirely compatible, so you should explore them both before deciding which to work with.
+
+* [Sanderson's *Manin* GitHub Repo](https://github.com/3b1b/manim)
+* [Manin Community's GitHub Repo](https://github.com/ManimCommunity/manim)
+* [Manin Community's Home Page](https://www.manim.community/)
+
 
 
 ## Navigation
