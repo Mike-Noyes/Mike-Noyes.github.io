@@ -39,5 +39,5 @@ These are pdfs of concise Sage references.  They are fairly self-explanatory.  T
 
 The links below will take you back to the ODE Main page or the Home page.
 
-* [Back to ODE Main Page](../ode/html)
+* [Back to ODE Main Page](../ode.html)
 * [Back to Home](../index.html)
