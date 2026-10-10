@@ -1,14 +1,7 @@
 # Mike-Noyes.github.io
 
-This is my **first** attempt at making a website!  This is a work in progress.
----
-I plan to do the following on this page:
-1. Have a blog.
-2. Put in links to various other GitHub projects
-3. Create a Calc 3 project that my students can use to help them this semester.
+This is the repo for my very first website.  The general plan is for it to contain most of the materials that I use to teach courses at CU Boulder, as well as various other mathematical related interests that I have and projects that I'm working on (or have worked on in the past).
 
----
-
-I am a Lecturer at CU Boulder.  I teach undergraduate courses, mainly in the Calculus sequence.  As you can see from the list above, I hope to set up some material on this website to use for the Calc 3 class I am teaching this semester.
+I am a Lecturer at CU Boulder.  I teach undergraduate courses, mainly in the Calculus sequence.
 
 I can reached by email at *noyesmb@colorado.edu*.
