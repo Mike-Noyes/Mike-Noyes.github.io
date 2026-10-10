@@ -1,6 +1,8 @@
 # Resources for Linear Algebra
 
-Where to begin?
+Where to begin?  Here's a few (more than a few!) suggestions.
+
+**PLEASE NOTE:** clicking on the links will take you to the webpages, closing this page.  If you want to open the links in a new tab, ctrl+click (or right-click) the link and select "Open in New Tab" from the pop-up menu.  If you accidentally navigate away from this page, click the "back" button in your browser to return.
 
 ## Interactive Online Texts
 
