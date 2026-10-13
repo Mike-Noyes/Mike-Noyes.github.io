@@ -1,5 +1,8 @@
-# This is material that will be included on Midterm 2.
+# These are Notes and Documents related to Midterm 2.
 
+## Midterm 2 Review
+
+*[Midterm 2 Review](../../files/calc3_mt2_topics.pdf)
 
 ## Navigation
 
