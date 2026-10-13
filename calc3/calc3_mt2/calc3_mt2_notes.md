@@ -2,7 +2,7 @@
 
 ## Midterm 2 Review
 
-*[Midterm 2 Review](../../files/calc3_mt2_topics.pdf)
+* [Midterm 2 Review](../../files/calc3_mt2_topics.pdf)
 
 ## Navigation
 
