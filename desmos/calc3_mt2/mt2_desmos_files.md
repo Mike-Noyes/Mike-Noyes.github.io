@@ -9,6 +9,7 @@
 * [Lagrange Multiplier Example](https://www.desmos.com/3d/1absk2uynz)
 * [Level Curves in the Plane and Gradient Vectors (to help visualize Lagrange Multipliers](https://www.desmos.com/calculator/rafh2n3ig6)
 * [Iterated Integral over Rectangular Region](https://www.desmos.com/3d/l7wq9ydl9q)
+* [Iterated Integral over Non-Rectangular Region](https://www.desmos.com/3d/4xyewgeoqt)
 
 
 ## Navigation
