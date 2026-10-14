@@ -110,11 +110,127 @@ Both of these will be worked through below.
 
 ## The Chain Rule (14.5)
 
+* Let $z = x^2y + 3xy^4$, where $x = \sin(2t)$ and $y = \cos(t)$. Find $\frac{dz}{dt}$ when $t = 0$.
+
+**Solution**
+According to the multivariable chain rule:
+$$\frac{dz}{dt} = \frac{\partial z}{\partial x} \frac{dx}{dt} + \frac{\partial z}{\partial y} \frac{dy}{dt}$$
+
+**Step 1: Compute partial derivatives and derivatives**
+$$\frac{\partial z}{\partial x} = 2xy + 3y^4$$
+$$\frac{\partial z}{\partial y} = x^2 + 12xy^3$$
+
+$$\frac{dx}{dt} = 2\cos(2t)$$
+$$\frac{dy}{dt} = -\sin(t)$$
+
+**Step 2: Evaluate variables at $t = 0$**
+* $x(0) = \sin(0) = 0$
+* $y(0) = \cos(0) = 1$
+
+Now substitute $x = 0$ and $y = 1$ into the partial derivatives:
+$$\frac{\partial z}{\partial x} = 2(0)(1) + 3(1)^4 = 3$$
+$$\frac{\partial z}{\partial y} = (0)^2 + 12(0)(1)^3 = 0$$
+
+Evaluate the $t$-derivatives at $t = 0$:
+$$\frac{dx}{dt} = 2\cos(0) = 2$$
+$$\frac{dy}{dt} = -\sin(0) = 0$$
+
+**Step 3: Calculate the final rate**
+$$\frac{dz}{dt} = (3)(2) + (0)(0) = 6$$
+
+**Answer:** $6$
+
+
 ## Directional Derivatives and the Gradient (14.6)
+
+* Find the directional derivative of $f(x, y) = e^{xy} + y^2$ at the point $(2, 0)$ in the direction of the vector $\mathbf{v} = 3\mathbf{i} + 4\mathbf{j}$.
+
+**Solution**
+
+**Step 1: Find the unit direction vector $\mathbf{u}$**
+$$\|\mathbf{v}\| = \sqrt{3^2 + 4^2} = 5$$
+$$\mathbf{u} = \frac{\mathbf{v}}{\|\mathbf{v}\|} = \left\langle \frac{3}{5}, \frac{4}{5} \right\rangle$$
+
+**Step 2: Find the Gradient Vector $\nabla f(x, y)$**
+$$f_x = ye^{xy}$$
+$$f_y = xe^{xy} + 2y$$
+$$\nabla f(x, y) = \langle ye^{xy}, xe^{xy} + 2y \rangle$$
+
+**Step 3: Evaluate Gradient at $(2, 0)$**
+$$\nabla f(2, 0) = \langle 0 \cdot e^0, 2 \cdot e^0 + 2(0) \rangle = \langle 0, 2 \rangle$$
+
+**Step 4: Compute the Directional Derivative $D_{\mathbf{u}}f$**
+$$D_{\mathbf{u}}f(2, 0) = \nabla f(2, 0) \cdot \mathbf{u}$$
+$$= \langle 0, 2 \rangle \cdot \left\langle \frac{3}{5}, \frac{4}{5} \right\rangle$$
+$$= 0\left(\frac{3}{5}\right) + 2\left(\frac{4}{5}\right) = \frac{8}{5}$$
+
+**Answer:** $\frac{8}{5}$
 
 ## Extreme Values (14.7)
 
+Find and classify all local extrema and saddle points of:
+$$f(x, y) = x^3 - 3x + y^2$$
+
+**Solution**
+
+**Step 1: Find Critical Points**
+Calculate the first partial derivatives and set them to $0$:
+$$f_x = 3x^2 - 3 = 0 \implies x^2 = 1 \implies x = \pm 1$$
+$$f_y = 2y = 0 \implies y = 0$$
+
+The critical points are $(1, 0)$ and $(-1, 0)$.
+
+**Step 2: Calculate Second Partials and the Discriminant $D$**
+$$f_{xx} = 6x, \quad f_{yy} = 2, \quad f_{xy} = 0$$
+$$D(x, y) = f_{xx}f_{yy} - (f_{xy})^2 = (6x)(2) - 0^2 = 12x$$
+
+**Step 3: Classify each critical point**
+* **For Point $(1, 0)$**:
+  $$D(1, 0) = 12(1) = 12 > 0$$
+  Since $D > 0$, check $f_{xx}(1, 0) = 6(1) = 6 > 0$.
+  Therefore, $(1, 0)$ is a **local minimum**.
+
+* **For Point $(-1, 0)$**:
+  $$D(-1, 0) = 12(-1) = -12 < 0$$
+  Since $D < 0$, $(-1, 0)$ is a **saddle point**.
+
+**Answer:** Local minimum at $(1, 0)$ with value $f(1, 0) = -2$; Saddle point at $(-1, 0)$.
+
 ## Lagrange Multipliers (14.8)
+
+* Find the extreme values of $f(x, y) = xy$ subject to the constraint $x^2 + y^2 = 8$.
+
+**Solution**
+Let the constraint function be $g(x, y) = x^2 + y^2 - 8 = 0$.
+Using Lagrange multipliers, we solve $\nabla f = \lambda \nabla g$ along with the constraint equation.
+
+Calculate the gradients:
+$$\nabla f = \langle y, x \rangle$$
+$$\nabla g = \langle 2x, 2y \rangle$$
+
+Set up the system of equations:
+1) $y = 2\lambda x$
+2) $x = 2\lambda y$
+3) $x^2 + y^2 = 8$
+
+If we multiply (1) by $y$ and (2) by $x$:
+$$y^2 = 2\lambda xy$$
+$$x^2 = 2\lambda xy$$
+Thus, $x^2 = y^2$.
+
+Substitute $x^2 = y^2$ into the constraint (3):
+$$x^2 + x^2 = 8 \implies 2x^2 = 8 \implies x^2 = 4 \implies x = \pm 2$$
+
+Since $y^2 = x^2$, we also get $y = \pm 2$. This yields four critical points:
+$$(2, 2), \quad (2, -2), \quad (-2, 2), \quad (-2, -2)$$
+
+Evaluate $f(x, y) = xy$ at these points:
+* $f(2, 2) = 4$ (Maximum value)
+* $f(-2, -2) = 4$ (Maximum value)
+* $f(2, -2) = -4$ (Minimum value)
+* $f(-2, 2) = -4$ (Minimum value)
+
+**Answer:** Maximum value is $4$, minimum value is $-4$.
 
 ## Double Integrals over Rectangles (15.1)
 
