@@ -74,7 +74,7 @@ Both of these will be worked through below.
 
   See the Desmos 3D link for a visualization of this:
 
-  [Tangent Plane to z=f(x,y)](https://www.desmos.com/3d/v49zwldjhu)
+  * [Tangent Plane to z=f(x,y)](https://www.desmos.com/3d/v49zwldjhu)
   
 * Find the tangent plane to $\vec{r}(u,v) = \langle u, \cos(u)\cos(v), \cos(u)\sin(v) \rangle$ at the point $P(\frac{\pi}{4}, \frac{1}{2}, \frac{1}{2})$.
 
@@ -106,7 +106,7 @@ Both of these will be worked through below.
 
   See the Desmos 3D link for a visualization of this:
 
-  [Tangent Plane to Parametric Surface](https://www.desmos.com/3d/yeix4vk0bc)
+  * [Tangent Plane to Parametric Surface](https://www.desmos.com/3d/yeix4vk0bc)
 
 ## The Chain Rule (14.5)
 
@@ -120,7 +120,6 @@ Both of these will be worked through below.
 
 ## Double Integrals over General Regions (15.2)
 
-## Double Integrals in Polar Coordinates (15.3)
 
 
 ## Navigation
