@@ -118,7 +118,57 @@ Both of these will be worked through below.
 
 ## Double Integrals over Rectangles (15.1)
 
+* Evaluate the double integral:
+$$\iint_R (6x^2y - 2x) \, dA$$
+where $R = [0, 2] \times [1, 3]$.
+
+**Solution**
+By Fubini's Theorem, we can set up the double integral as an iterated integral. We will integrate with respect to $y$ first, and then $x$:
+
+$$\iint_R (6x^2y - 2x) \, dA = \int_{0}^{2} \int_{1}^{3} (6x^2y - 2x) \, dy \, dx$$
+
+**Step 1: Inner Integral (with respect to $y$)**
+$$\int_{1}^{3} (6x^2y - 2x) \, dy = \left[ 3x^2y^2 - 2xy \right]_{y=1}^{y=3}$$
+
+Substitute the upper and lower limits:
+$$= \left( 3x^2(3)^2 - 2x(3) \right) - \left( 3x^2(1)^2 - 2x(1) \right)$$
+$$= (27x^2 - 6x) - (3x^2 - 2x)$$
+$$= 24x^2 - 4x$$
+
+**Step 2: Outer Integral (with respect to $x$)**
+$$\int_{0}^{2} (24x^2 - 4x) \, dx = \left[ 8x^3 - 2x^2 \right]_0^2$$
+$$= \left( 8(2)^3 - 2(2)^2 \right) - (0)$$
+$$= (64 - 8) = 56$$
+
+**Answer:** $56$
+
+
+
 ## Double Integrals over General Regions (15.2)
+
+* Evaluate the double integral:
+$$\iint_D xy \, dA$$
+where $D$ is the region bounded by $y = x^2$ and $y = 2x$.
+
+**Solution**
+First, find the points of intersection to determine the integration limits:
+$$x^2 = 2x \implies x^2 - 2x = 0 \implies x(x - 2) = 0$$
+So, the curves intersect at $x = 0$ and $x = 2$. In this interval, $2x \ge x^2$, so $y$ ranges from $x^2$ to $2x$.
+
+Setting up the iterated integral as a Type I region:
+$$\iint_D xy \, dA = \int_{0}^{2} \int_{x^2}^{2x} xy \, dy \, dx$$
+
+**Step 1: Inner Integral (with respect to $y$)**
+$$\int_{x^2}^{2x} xy \, dy = \left[ \frac{1}{2}xy^2 \right]_{y=x^2}^{y=2x}$$
+$$= \frac{1}{2}x(2x)^2 - \frac{1}{2}x(x^2)^2$$
+$$= 2x^3 - \frac{1}{2}x^5$$
+
+**Step 2: Outer Integral (with respect to $x$)**
+$$\int_{0}^{2} \left( 2x^3 - \frac{1}{2}x^5 \right) \, dx = \left[ \frac{1}{2}x^4 - \frac{1}{12}x^6 \right]_0^2$$
+$$= \left( \frac{1}{2}(16) - \frac{1}{12}(64) \right) - 0$$
+$$= 8 - \frac{16}{3} = \frac{8}{3}$$
+
+**Answer:** $\frac{8}{3}$
 
 
 
