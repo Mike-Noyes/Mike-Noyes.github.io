@@ -4,7 +4,7 @@
 
 * Find the domain of $f(x,y) = x\ln(x-y^2)$.
 
-  **Solution:**  Since the natural log function is only defined when its input is greater than 0, we need to find   the values of $x$ and $y$ such that $x-y^2 >0$.  Rewriting this inequality gives [...]
+  **Solution:**  Since the natural log function is only defined when its input is greater than 0, we need to find   the values of $x$ and $y$ such that $x-y^2 >0$.  Rewriting this inequality gives $y^2<x$.  Now graph the parabola $y^2=x$ with dotted lines (since it is a strict inequality) and pick a sample point (anything that's not on the dotted line you just drew).  Plug this in to the inequality and see if it's true or not.  If it's true, the region that the sample point is in is your domain.  If the inequality is not true, then the other region is the domain.  For example, the point $(1,0)$ is inside the parabola $y^2=x$.  Plugging these values in we get $0^2<1$ which is a true statement.  That means the region inside the parabola is the domain.
 
 ## Limits (14.2)
 
@@ -110,6 +110,8 @@ Both of these will be worked through below.
 
 ## The Chain Rule (14.5)
 
+The thing to do when working through Chain Rule questions is to **DRAW A DIAGRAM!**  It is a very simple and accurate way to record all of the various things that you need.  It is very hard to keep track of all of the various variables involved and the dependencies between them is you don't organize all of that information somehow.  A diagram organizes it all for you.
+
 * Let $z = x^2y + 3xy^4$, where $x = \sin(2t)$ and $y = \cos(t)$. Find $\frac{dz}{dt}$ when $t = 0$.
 
 **Solution**
@@ -143,6 +145,12 @@ $$\frac{dz}{dt} = (3)(2) + (0)(0) = 6$$
 
 ## Directional Derivatives and the Gradient (14.6)
 
+The formula if obviously important:
+
+\[D_{\vec{u}}f(x_0,y_0) = \nabla f(x_0,y_0)\cdot \vec{u}\]
+
+But the main thing that you have to remember when using the formula is that $\vec{u}$ needs to be a **unit vector** (that's why we use $\vec{u}$ here).  If it's not a unit vector, then you have to normalize it first.
+
 * Find the directional derivative of $f(x, y) = e^{xy} + y^2$ at the point $(2, 0)$ in the direction of the vector $\mathbf{v} = 3\mathbf{i} + 4\mathbf{j}$.
 
 **Solution**
@@ -168,7 +176,22 @@ $$= 0\left(\frac{3}{5}\right) + 2\left(\frac{4}{5}\right) = \frac{8}{5}$$
 
 ## Extreme Values (14.7)
 
-Find and classify all local extrema and saddle points of:
+The main tool here is the second derivative test.  But since you'll be testing critical points you need to also remember what they are.
+
+A point $(x_0, y_0)$ is a critical point if $f_{x}(x_0,y_0) = 0$ and $f_{y}(x_0, y_0) = 0$ (technically speaking, one or both of the partial derivatives could not exist at the point, but this really doesn't happen with the functions we are working with).  So, first, take the first-order partials and find all the critical points.
+
+Now you use the second derivative test.  This is just something that has to be memorized.  Let $D=\f_{xx}f_{yy}-(f_{xy})^2$.  Then there are four things that can happen:
+
+ 1) $D>0$ and $f_{xx}<0$ and you have a **local max**
+ 2) $D>0$ and $f_{xx}>0$ and you have a **local min**
+ 3) $D<0$ and you have a **saddle point**
+ 4) $D=0$ and the test is inconclusive
+
+If you ever can't remember how things work with the first three above, work through $f(x,y)=x^2+y^2$.  This is a paraboloid centered at the origin so the critical point at $(0,0)$ is a min.  $f_{x} = 2x, f_{y}=2y, f_{xx} = 2, f_{yy}=2, f_{xy}=0$.  So, $D = 2*2 - 0^2 >0$ and $f_{xx}=2>0$.
+
+Also keep in mind that both local maxs and local mins have the same behavior from $D$.  The only thing that changes is the $f_{xx}$.  So if you see from the above test that $D>0$ and $f_{xx}>0$ gives local min, then you must have $D>0, f_{xx}<0$ gives local max (the $D$ inequality is the same).
+
+* Find and classify all local extrema and saddle points of:
 $$f(x, y) = x^3 - 3x + y^2$$
 
 **Solution**
@@ -197,6 +220,8 @@ $$D(x, y) = f_{xx}f_{yy} - (f_{xy})^2 = (6x)(2) - 0^2 = 12x$$
 **Answer:** Local minimum at $(1, 0)$ with value $f(1, 0) = -2$; Saddle point at $(-1, 0)$.
 
 ## Lagrange Multipliers (14.8)
+
+Okay, you need to not turn this into a boogeyman.  It is as algorithmic as the second derivative test.  Learn the process, even if you don't fully understand why it works (you should try to understand this, but the process will be enough to get you through most of the things that you'll see on a midterm).  The easiest way to learn the process is to do it a few times yourself.  Work through the example below.
 
 * Find the extreme values of $f(x, y) = xy$ subject to the constraint $x^2 + y^2 = 8$.
 
@@ -234,6 +259,8 @@ Evaluate $f(x, y) = xy$ at these points:
 
 ## Double Integrals over Rectangles (15.1)
 
+These are the nicest integrals that we'll see all semester.  Because you are integrating over a rectangular region, you can change the order of integration without worrying about the bounds changing.  If you have an integrand that is complicated (or impossible) to do in one order, just change the order.  You still will have to do multiple steps to evaluate the integral, but that's to be expected.  There's a huge difference between having to do multiple relatively simple steps that you don't mess up to ultimately get to the correct answer and doing multiple difficult steps that you do mess up and you end up with something that is incorrect.
+
 * Evaluate the double integral:
 $$\iint_R (6x^2y - 2x) \, dA$$
 where $R = [0, 2] \times [1, 3]$.
@@ -261,6 +288,10 @@ $$= (64 - 8) = 56$$
 
 
 ## Double Integrals over General Regions (15.2)
+
+This is more subtle than integrals over rectangular regions.  Pay attention to the geometry of the region $D$ in the $xy$-plane.  Understand the boundaries (the non-vertical and non-horizontal parts of it) and think about filling this region with either vertical or horizontal lines.  This will give you your bounds.  
+
+Something to keep in mind.  If you're not sure which order to integrate in, just pick one and see what happens.  It will either work and you're done, or it won't work and now you know which order you should use (the other one).  Then use the other order and evaluate the integral.
 
 * Evaluate the double integral:
 $$\iint_D xy \, dA$$
