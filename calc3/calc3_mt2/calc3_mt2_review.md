@@ -144,7 +144,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   <details>
   <summary><strong>Solution</strong></summary>
 
-  **Step 1: Find the unit direction vector $\mathbf{u}$**
+  **Step 1: Find the unit direction vector $\vec{u}$**
   $$\|\mathbf{v}\| = \sqrt{12^2 + (-5)^2} = \sqrt{144 + 25} = 13$$
   $$\vec{u} = \left\langle \frac{12}{13}, -\frac{5}{13} \right\rangle$$
 
