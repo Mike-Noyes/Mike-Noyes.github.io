@@ -116,11 +116,11 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   By the chain rule:
   $$\frac{dz}{dt} = \frac{\partial z}{\partial x} \frac{dx}{dt} + \frac{\partial z}{\partial y} \frac{dy}{dt}$$
 
-  **Step 1: Compute partial derivatives and derivatives**
+  So you need all these derivatives:
   $$\frac{\partial z}{\partial x} = 2x - y, \quad \frac{\partial z}{\partial y} = -x + 2y$$
   $$\frac{dx}{dt} = 2e^{2t}, \quad \frac{dy}{dt} = \frac{1}{t+1}$$
 
-  **Step 2: Evaluate variables at $t = 0$**
+  Now, evaluate variables at $t = 0$:
   * $x(0) = e^0 = 1$
   * $y(0) = \ln(1) = 0$
 
@@ -130,10 +130,9 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   $$\frac{dx}{dt} = 2e^0 = 2$$
   $$\frac{dy}{dt} = \frac{1}{1} = 1$$
 
-  **Step 3: Calculate the final rate**
+  Plug everything in to calculate the final rate:
   $$\frac{dz}{dt} = (2)(2) + (-1)(1) = 4 - 1 = 3$$
 
-  **Answer:** $3$
 
   </details>
 
@@ -144,23 +143,22 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   <details>
   <summary><strong>Solution</strong></summary>
 
-  **Step 1: Find the unit direction vector $\vec{u}$**
+  First, find the unit direction vector $\vec{u}$:
   $$\|\mathbf{v}\| = \sqrt{12^2 + (-5)^2} = \sqrt{144 + 25} = 13$$
   $$\vec{u} = \left\langle \frac{12}{13}, -\frac{5}{13} \right\rangle$$
 
-  **Step 2: Find the Gradient Vector $\nabla f(x, y)$**
+  Next, find the Gradient Vector $\nabla f(x, y)$:
   $$f_x = 2xy^3$$
   $$f_y = 3x^2y^2 - 4$$
   $$\nabla f(x, y) = \langle 2xy^3, 3x^2y^2 - 4 \rangle$$
 
-  **Step 3: Evaluate Gradient at $(2, 1)$**
+  Evaluate Gradient at $(2, 1)$:
   $$\nabla f(2, 1) = \langle 2(2)(1)^3, 3(2)^2(1)^2 - 4 \rangle = \langle 4, 8 \rangle$$
 
-  **Step 4: Compute the Directional Derivative $D_{\mathbf{u}}f$**
+  Plug everything in to compute the Directional Derivative $D_{\vec{u}}f$:
   $$D_{\vec{u}}f(2, 1) = \nabla f(2, 1) \cdot \vec{u} = 4\left(\frac{12}{13}\right) + 8\left(-\frac{5}{13}\right)$$
   $$= \frac{48 - 40}{13} = \frac{8}{13}$$
 
-  **Answer:** $\frac{8}{13}$
 
   </details>
 
@@ -172,29 +170,28 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   <details>
   <summary><strong>Solution</strong></summary>
 
-  **Step 1: Find Critical Points**
-  Calculate first partials and set to $0$:
+  First, find critical points by calculating the first partials and setting to $0$:
   $$f_x = 2x + 4y - 4 = 0 \implies x + 2y = 2$$
   $$f_y = 4x + 10y - 6 = 0 \implies 2x + 5y = 3$$
 
-  Solving this system:
+  At this stage, you need to solve this system of equations:
+  
   Multiply the first equation by $2$: $2x + 4y = 4$.
   Subtracting this from the second equation: $(2x + 5y) - (2x + 4y) = 3 - 4 \implies y = -1$.
   Substitute $y = -1$ back into $x + 2y = 2 \implies x - 2 = 2 \implies x = 4$.
 
   The critical point is $(4, -1)$.
 
-  **Step 2: Calculate Second Partials and the Discriminant $D$**
+  Now you need to calculate the second-order partials and find $D$:
   $$f_{xx} = 2, \quad f_{yy} = 10, \quad f_{xy} = 4$$
   $$D = f_{xx}f_{yy} - (f_{xy})^2 = (2)(10) - (4)^2 = 20 - 16 = 4$$
 
-  **Step 3: Classify the critical point**
+  Finally, classify the critical point:
   * At Point $(4, -1)$:
     $$D = 4 > 0$$
     Since $D > 0$, check $f_{xx} = 2 > 0$.
     Therefore, $(4, -1)$ is a **local minimum**.
 
-  **Answer:** Local minimum at $(4, -1)$ with value $f(4, -1) = -5$.
 
   </details>
 
@@ -244,18 +241,17 @@ where $R = [0, 1] \times [0, 2]$.
 
   $$\iint_R (4x^3 + 9x^2y^2) \, dA = \int_{0}^{1} \int_{0}^{2} (4x^3 + 9x^2y^2) \, dy \, dx$$
 
-  **Step 1: Inner Integral (with respect to $y$)**
+  First, you need to evaluate the inner integral (with respect to $y$):
   $$\int_{0}^{2} (4x^3 + 9x^2y^2) \, dy = \left[ 4x^3y + 3x^2y^3 \right]_{y=0}^{y=2}$$
 
   Substitute the limits:
   $$= \left( 4x^3(2) + 3x^2(2)^3 \right) - (0)$$
   $$= 8x^3 + 24x^2$$
 
-  **Step 2: Outer Integral (with respect to $x$)**
+  Now you need to evaluate the outer integral (with respect to $x$):
   $$\int_{0}^{1} (8x^3 + 24x^2) \, dx = \left[ 2x^4 + 8x^3 \right]_0^1$$
   $$= \left( 2(1)^4 + 8(1)^3 \right) - (0) = 10$$
 
-  **Answer:** $10$
 
   </details>
 
@@ -275,16 +271,15 @@ where $D$ is the region bounded by $y = x^2$ and $y = \sqrt{x}$.
   Setting up the iterated integral as a Type I region:
   $$\iint_D (x + 2y) \, dA = \int_{0}^{1} \int_{x^2}^{\sqrt{x}} (x + 2y) \, dy \, dx$$
 
-  **Step 1: Inner Integral (with respect to $y$)**
+  First, evaluate the inner integral (with respect to $y$):
   $$\int_{x^2}^{\sqrt{x}} (x + 2y) \, dy = \left[ xy + y^2 \right]_{y=x^2}^{y=\sqrt{x}}$$
   $$= \left( x\sqrt{x} + (\sqrt{x})^2 \right) - \left( x(x^2) + (x^2)^2 \right)$$
   $$= x^{3/2} + x - x^3 - x^4$$
 
-  **Step 2: Outer Integral (with respect to $x$)**
+  Now evaluate the outer integral (with respect to $x$):
   $$\int_{0}^{1} (x^{3/2} + x - x^3 - x^4) \, dx = \left[ \frac{2}{5}x^{5/2} + \frac{1}{2}x^2 - \frac{1}{4}x^4 - \frac{1}{5}x^5 \right]_0^1$$
   $$= \frac{2}{5} + \frac{1}{2} - \frac{1}{4} - \frac{1}{5} = \frac{4}{10} + \frac{5}{10} - \frac{1}{4} - \frac{2}{10} = \frac{7}{10} - \frac{1}{4} = \frac{14}{20} - \frac{5}{20} = \frac{9}{20}$$
 
-  **Answer:** $\frac{9}{20}$
 
   </details>
   
