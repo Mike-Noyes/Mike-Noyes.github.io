@@ -105,6 +105,85 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   $$z = 4x - 2y - 3$$
 
   </details>
+  
+## Chain Rule (14.5)
+
+*
+
+  <details>
+  <summary><strong>Solution</strong></summary>
+
+
+  </details>
+
+## Directional Derivatives (14.6)
+
+*
+
+  <details>
+  <summary><strong>Solution</strong></summary>
+
+
+  </details>
+
+## Extreme Values (14.7)
+
+*
+
+  <details>
+  <summary><strong>Solution</strong></summary>
+
+
+  </details>
+
+## Lagrange Multipliers (14.8)
+
+*
+
+  <details>
+  <summary><strong>Solution</strong></summary>
+
+
+  </details>
+
+## Double Integrals of Rectangular Regions (15.1)
+
+* Evaluate the double integral:
+$$\iint_R (4x^3 + 9x^2y^2) \, dA$$
+where $R = [0, 1] \times [0, 2]$.
+
+  <details>
+  <summary><strong>Solution</strong></summary>
+
+  By Fubini's Theorem, we set up the double integral as an iterated integral. We will integrate with respect to $y$ first, and then $x$:
+
+  $$\iint_R (4x^3 + 9x^2y^2) \, dA = \int_{0}^{1} \int_{0}^{2} (4x^3 + 9x^2y^2) \, dy \, dx$$
+
+  **Step 1: Inner Integral (with respect to $y$)**
+  $$\int_{0}^{2} (4x^3 + 9x^2y^2) \, dy = \left[ 4x^3y + 3x^2y^3 \right]_{y=0}^{y=2}$$
+
+  Substitute the limits:
+  $$= \left( 4x^3(2) + 3x^2(2)^3 \right) - (0)$$
+  $$= 8x^3 + 24x^2$$
+
+  **Step 2: Outer Integral (with respect to $x$)**
+  $$\int_{0}^{1} (8x^3 + 24x^2) \, dx = \left[ 2x^4 + 8x^3 \right]_0^1$$
+  $$= \left( 2(1)^4 + 8(1)^3 \right) - (0) = 10$$
+
+  **Answer:** $10$
+
+  </details>
+
+## Double Integrals over Non-Rectangular Regions (15.2)
+
+*
+
+  <details>
+  <summary><strong>Solution</strong></summary>
+
+
+  </details>
+  
 
 ## Navigation
 
