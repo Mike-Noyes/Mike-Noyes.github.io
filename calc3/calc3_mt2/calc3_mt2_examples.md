@@ -145,9 +145,9 @@ $$\frac\{dz\}\{dt\} = (3)(2) + (0)(0) = 6$$
 
 ## Directional Derivatives and the Gradient (14.6)
 
-The formula if obviously important:
+The formula is obviously important:
 
-\[D_\{\vec{u}\}f(x_0,y_0) = \nabla f(x_0,y_0)\cdot \vec\{u\}\]
+$$D_\{\vec{u}\}f(x_0,y_0) = \nabla f(x_0,y_0)\cdot \vec\{u\}$$
 
 But the main thing that you have to remember when using the formula is that $\vec\{u\}$ needs to be a **unit vector** (that's why we use $\vec\{u\}$ here).  If it's not a unit vector, then you have to normalize it first.
 
