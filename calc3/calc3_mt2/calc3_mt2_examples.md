@@ -14,7 +14,7 @@ The main thing to remember about limits of functions of several variables is tha
 
    **Solution:** First, take the path along the x-axis: $y=0$.  Then the limit becomes
 
-   $$\lim_{\(x,0)\to (0,0)\} \frac\{x^2\}\{x^2\} = 1$$
+   $$\lim_\{(x,0)\to (0,0)\} \frac\{x^2\}\{x^2\} = 1$$
 
    Now, take the second path along the y-axis: $x=0$.  This limit is
 
