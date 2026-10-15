@@ -258,27 +258,33 @@ where $R = [0, 1] \times [0, 2]$.
 ## Double Integrals over Non-Rectangular Regions (15.2)
 
 * Evaluate the double integral:
-$$\iint_D (x + 2y) \, dA$$
-where $D$ is the region bounded by $y = x^2$ and $y = \sqrt{x}$.
+$$\iint_D \frac{\sin(y)}{y} \, dA$$
+where $D$ is the triangular region with vertices at $(0,0), (0,1), (1,1)$.
 
   <details>
   <summary><strong>Solution</strong></summary>
 
-  First, find the points of intersection:
-  $$x^2 = \sqrt{x} \implies x^4 = x \implies x(x^3 - 1) = 0$$
-  So, the curves intersect at $x = 0$ and $x = 1$. In this interval, $\sqrt{x} \ge x^2$.
+  The heart of this problem is picking the right order of integration.
 
-  Setting up the iterated integral as a Type I region:
-  $$\iint_D (x + 2y) \, dA = \int_{0}^{1} \int_{x^2}^{\sqrt{x}} (x + 2y) \, dy \, dx$$
+  Looking at the integrand, there isn't a clear way to integrate this directly with respect to $y$ since this function doesn't have an elementary antiderivative (with respect to $y$).
 
-  First, evaluate the inner integral (with respect to $y$):
-  $$\int_{x^2}^{\sqrt{x}} (x + 2y) \, dy = \left[ xy + y^2 \right]_{y=x^2}^{y=\sqrt{x}}$$
-  $$= \left( x\sqrt{x} + (\sqrt{x})^2 \right) - \left( x(x^2) + (x^2)^2 \right)$$
-  $$= x^{3/2} + x - x^3 - x^4$$
+  This means that you need to integrate with respect to $x$ first.
 
-  Now evaluate the outer integral (with respect to $x$):
-  $$\int_{0}^{1} (x^{3/2} + x - x^3 - x^4) \, dx = \left[ \frac{2}{5}x^{5/2} + \frac{1}{2}x^2 - \frac{1}{4}x^4 - \frac{1}{5}x^5 \right]_0^1$$
-  $$= \frac{2}{5} + \frac{1}{2} - \frac{1}{4} - \frac{1}{5} = \frac{4}{10} + \frac{5}{10} - \frac{1}{4} - \frac{2}{10} = \frac{7}{10} - \frac{1}{4} = \frac{14}{20} - \frac{5}{20} = \frac{9}{20}$$
+  Sketch the region $D$ in the $xy$-plane.  This is a triangle bounded on the right by the line $y=x$.  Since you're integrating in the order $dxdy$, you need to write this line as a function of $y$: $x=y$.
+
+  Setting up the iterated integral in the order $dxdy$ gives:
+  $$\iint_D \frac{\sin(y)}{y} \, dA = \int_{0}^{1} \int_{0}^{y} \frac{\sin(y)}{y} \, dx \, dy$$
+
+  First, evaluate the inner integral (with respect to $x$):
+  $$\int_{0}^{y} \frac{\sin(y)}{y} \, dx = \left[ x\frac{\sin(y)}{y} \right]_{x=0}^{x=y}$$
+  $$= y\frac{\sin(y)}{y} - 0$$
+  $$= \sin(y)$$
+
+  Now evaluate the outer integral (with respect to $y$):
+  $$\int_{0}^{1} \sin(y)\, dy = \left[ -\cos(y) \right]_0^1$$
+  $$= -\cos(1)--\cos(0)$$
+  $$= \cos(0)-\cos(1)$$
+  $$= 1 - \cos(1)$$
 
 
   </details>
