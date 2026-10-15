@@ -1,4 +1,10 @@
-# These are worked example problems that are from the Midterm 2 material.
+# Worked Example Problems for Midterm 2.
+
+The linked document has worked example problems for all the sections covered on Midterm 2.
+
+* [Midterm 2 Examples](../../files/calc3_mt2_examples.pdf)
+
+<!--
 
 ## Functions of Several Variables (14.1)
 
@@ -10,7 +16,7 @@
 
 The main thing to remember about limits of functions of several variables is that there is now an infinite number of paths that can approach the point $(x_0, y_0)$.  This means that it is not enough to evaluate the limit along one, two, or even infinitely many paths.  You would need to evaluate it along **all** possible paths.  This is not easy to do.  It usually involves some kind of geometric argument based on distance to the point, or some more algebraic steps like factoring or trying to use the squeeze theorem.  Because of this, we will mostly show that limits **DON'T** exist by finding two different paths such that the limit evaluated along those paths lead to different values.
 
-* Evaluate $\lim_\{(x,y)\to (0,0)\} \frac\{x^2-y^2\}\{x^2+y^2\}$.
+* Evaluate $\lim_{(x,y)\to (0,0)} \frac{x^2-y^2}{x^2+y^2}$.
 
    **Solution:** First, take the path along the x-axis: $y=0$.  Then the limit becomes
 
@@ -316,6 +322,8 @@ $$= \left( \frac\{1\}\{2\}(16) - \frac\{1\}\{12\}(64) \right) - 0$$
 $$= 8 - \frac\{16\}\{3\} = \frac\{8\}\{3\}$$
 
 **Answer:** $\frac\{8\}\{3\}$
+
+-->
 
 
 
