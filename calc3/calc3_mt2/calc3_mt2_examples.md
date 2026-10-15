@@ -58,7 +58,7 @@ $$ \vec\{n\}(u_0, v_0) = \vec\{r\}\;'_u(u_0, v_0) \times \vec\{r\}\;'_v(u_0, v_0
 
 Once you have this, you use the vector equation for a plane:
 
-$$\vec\{n\}(\cdot \langle x-x_0, y-y_0, z-z_0 \rangle = 0$$
+$$\vec\{n\}\cdot \langle x-x_0, y-y_0, z-z_0 \rangle = 0$$
 
 Both of these will be worked through below.
 
