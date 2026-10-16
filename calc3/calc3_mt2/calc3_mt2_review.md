@@ -9,9 +9,9 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   <details>
   <summary><strong>Solution</strong></summary>
 
-  For the square root to be defined, we need $16 - x^2 - y^2 \geq 0$, which gives us $x^2 + y^2 \leq 16$.
-
-  The domain is the disk of radius 4 centered at the origin, including the boundary circle.
+  For the square root to be defined, we need $16 - x^2 - y^2 \geq 0$, which gives us $x^2 + y^2 \leq 16$.<br>
+  <br>
+  The domain is the disk of radius 4 centered at the origin, including the boundary circle.<br>
 
   </details>
 
@@ -20,10 +20,10 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   <details>
   <summary><strong>Solution</strong></summary>
 
-  Since $x^2 + y^2 \geq 0$ for all real $x$ and $y$, we have $f(x,y) = x^2 + y^2 + 1 \geq 1$.
-
-  The minimum value is 1 (achieved at $(0,0)$), and there is no maximum.
-
+  Since $x^2 + y^2 \geq 0$ for all real $x$ and $y$, we have $f(x,y) = x^2 + y^2 + 1 \geq 1$.<br>
+  <br>
+  The minimum value is 1 (achieved at $(0,0)$), and there is no maximum.<br>
+  <br>
   The range is $[1, \infty)$.
 
   </details>
@@ -84,11 +84,11 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   <details>
   <summary><strong>Solution</strong></summary>
 
-  First, verify the point is on the surface: $2^2 - 1^2 = 4 - 1 = 3$.
+  First, verify the point is on the surface: $2^2 - 1^2 = 4 - 1 = 3$.<br>
 
-  Find the partial derivatives:
+  Find the partial derivatives:<br>
   
-  First, find $f_x$: $f_x(x,y) = 2x$, so $f_x(2,1) = 4$.
+  First, find $f_x$: $f_x(x,y) = 2x$, so $f_x(2,1) = 4$.<br>
   
   Second, find $f_y$: $f_y(x,y) = -2y$, so $f_y(2,1) = -2$.
 
@@ -187,7 +187,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   $$D = f_{xx}f_{yy} - (f_{xy})^2 = (2)(10) - (4)^2 = 20 - 16 = 4$$
 
   Finally, classify the critical point:
-  * At Point $(4, -1)$:<br>
+    At Point $(4, -1)$:<br>
     $$D = 4 > 0$$
     Since $D > 0$, check $f_{xx} = 2 > 0$.<br>
     Therefore, $(4, -1)$ is a <b>local minimum</b>.
@@ -227,7 +227,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   <ul>  
     <li> $f(2, 3) = 2(2) + 3(3) = 13$ (Maximum value)</li>
-    <li> $f(-2, -3) = 2(-2) + 3(-3) = -13$ (Minimum value)</li>li>
+    <li> $f(-2, -3) = 2(-2) + 3(-3) = -13$ (Minimum value)</li>
   </ul>
 
 
@@ -246,7 +246,7 @@ where $R = [0, 1] \times [0, 2]$.
 
   $$\iint_R (4x^3 + 9x^2y^2) \, dA = \int_{0}^{1} \int_{0}^{2} (4x^3 + 9x^2y^2) \, dy \, dx$$
 
-  First, you need to evaluate the inner integral (with respect to $y$):
+  First, you need to evaluate the inner integral (with respect to $y$):<br>
   $$\int_{0}^{2} (4x^3 + 9x^2y^2) \, dy = \left[ 4x^3y + 3x^2y^3 \right]_{y=0}^{y=2}$$
 
   Substitute the limits:
@@ -269,13 +269,13 @@ where $D$ is the triangular region with vertices at $(0,0), (0,1), (1,1)$.
   <details>
   <summary><strong>Solution</strong></summary>
 
-  The heart of this problem is picking the right order of integration.
+  The heart of this problem is picking the right order of integration.<br>
 
-  Looking at the integrand, there isn't a clear way to integrate this directly with respect to $y$ since this function doesn't have an elementary antiderivative (with respect to $y$).
+  Looking at the integrand, there isn't a clear way to integrate this directly with respect to $y$ since this function doesn't have an elementary antiderivative (with respect to $y$).<br>
 
-  This means that you need to integrate with respect to $x$ first.
+  This means that you need to integrate with respect to $x$ first.<br>
 
-  Sketch the region $D$ in the $xy$-plane.  This is a triangle bounded on the right by the line $y=x$.  Since you're integrating in the order $dxdy$, you need to write this line as a function of $y$: $x=y$.
+  Sketch the region $D$ in the $xy$-plane.  This is a triangle bounded on the right by the line $y=x$.  Since you're integrating in the order $dxdy$, you need to write this line as a function of $y$: $x=y$.<br>
 
   Setting up the iterated integral in the order $dxdy$ gives:
   $$\iint_D \frac{\sin(y)}{y} \, dA = \int_{0}^{1} \int_{0}^{y} \frac{\sin(y)}{y} \, dx \, dy$$
