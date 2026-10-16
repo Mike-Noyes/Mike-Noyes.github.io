@@ -122,7 +122,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   Now, evaluate variables at $t = 0$: <br>
   $x(0) = e^0 = 1$ <br>
-  $y(0) = \ln(1) = 0$
+  $y(0) = \ln(1) = 0$ <br>
 
   Substitute these coordinates into the derivatives:
   $$\frac{\partial z}{\partial x} = 2(1) - 0 = 2$$
@@ -174,23 +174,23 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   $$f_x = 2x + 4y - 4 = 0 \implies x + 2y = 2$$
   $$f_y = 4x + 10y - 6 = 0 \implies 2x + 5y = 3$$
 
-  At this stage, you need to solve this system of equations:
+  At this stage, you need to solve this system of equations:<br>
   
-  Multiply the first equation by $2$: $2x + 4y = 4$.
-  Subtracting this from the second equation: $(2x + 5y) - (2x + 4y) = 3 - 4 \implies y = -1$.
-  Substitute $y = -1$ back into $x + 2y = 2 \implies x - 2 = 2 \implies x = 4$.
+  Multiply the first equation by $2$: $2x + 4y = 4$.<br>
+  Subtracting this from the second equation: $(2x + 5y) - (2x + 4y) = 3 - 4 \implies y = -1$.<br>
+  Substitute $y = -1$ back into $x + 2y = 2 \implies x - 2 = 2 \implies x = 4$.<br>
 
-  The critical point is $(4, -1)$.
+  The critical point is $(4, -1)$.<br>
 
-  Now you need to calculate the second-order partials and find $D$:
+  Now you need to calculate the second-order partials and find $D$:<br>
   $$f_{xx} = 2, \quad f_{yy} = 10, \quad f_{xy} = 4$$
   $$D = f_{xx}f_{yy} - (f_{xy})^2 = (2)(10) - (4)^2 = 20 - 16 = 4$$
 
   Finally, classify the critical point:
-  * At Point $(4, -1)$:
+  * At Point $(4, -1)$:<br>
     $$D = 4 > 0$$
-    Since $D > 0$, check $f_{xx} = 2 > 0$.
-    Therefore, $(4, -1)$ is a **local minimum**.
+    Since $D > 0$, check $f_{xx} = 2 > 0$.<br>
+    Therefore, $(4, -1)$ is a <b>local minimum<b>.
 
 
   </details>
@@ -202,29 +202,28 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   <details>
   <summary><strong>Solution</strong></summary>
 
-  Let $g(x, y) = x^2 + y^2 - 13 = 0$.
+  Let $g(x, y) = x^2 + y^2 - 13 = 0$.,br>
   Using Lagrange multipliers, we solve $\nabla f = \lambda \nabla g$:
   $$\nabla f = \langle 2, 3 \rangle$$
   $$\nabla g = \langle 2x, 2y \rangle$$
 
-  Set up the system of equations:
-  1) $2 = 2\lambda x \implies \lambda x = 1$
-  2) $3 = 2\lambda y \implies 2\lambda y = 3$
-  3) $x^2 + y^2 = 13$
+  Set up the system of equations:<br>
+  1) $2 = 2\lambda x \implies \lambda x = 1$<br>
+  2) $3 = 2\lambda y \implies 2\lambda y = 3$<br>
+  3) $x^2 + y^2 = 13$<br>
 
-  From (1) and (2), since $\lambda \ne 0$, we have $x = \frac{1}{\lambda}$ and $y = \frac{3}{2\lambda}$.
-  Substitute these into (3):
+  From (1) and (2), since $\lambda \ne 0$, we have $x = \frac{1}{\lambda}$ and $y = \frac{3}{2\lambda}$.<br>
+  
+  Substitute these into (3):<br>
   $$\left(\frac{1}{\lambda}\right)^2 + \left(\frac{3}{2\lambda}\right)^2 = 13 \implies \frac{1}{\lambda^2} + \frac{9}{4\lambda^2} = 13$$
   $$\frac{13}{4\lambda^2} = 13 \implies 4\lambda^2 = 1 \implies \lambda = \pm \frac{1}{2}$$
 
-  * If $\lambda = \frac{1}{2}$: $x = 2$, $y = 3$. Point: $(2, 3)$
-  * If $\lambda = -\frac{1}{2}$: $x = -2$, $y = -3$. Point: $(-2, -3)$
+  * If $\lambda = \frac{1}{2}$: $x = 2$, $y = 3$. Point: $(2, 3)$<br>
+  * If $\lambda = -\frac{1}{2}$: $x = -2$, $y = -3$. Point: $(-2, -3)$<br>
 
-  Evaluate $f(x, y)$:
-  * $f(2, 3) = 2(2) + 3(3) = 13$ (Maximum value)
+  Evaluate $f(x, y)$:<br>
+  * $f(2, 3) = 2(2) + 3(3) = 13$ (Maximum value)<br>
   * $f(-2, -3) = 2(-2) + 3(-3) = -13$ (Minimum value)
-
-  **Answer:** Maximum value is $13$, minimum value is $-13$.
 
   </details>
 
