@@ -8,7 +8,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   <details>
   <summary><strong>Solution</strong></summary>
-
+  <br>
   For the square root to be defined, we need $16 - x^2 - y^2 \geq 0$, which gives us $x^2 + y^2 \leq 16$.<br>
   <br>
   The domain is the disk of radius 4 centered at the origin, including the boundary circle.<br>
@@ -19,7 +19,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   <details>
   <summary><strong>Solution</strong></summary>
-
+  <br>
   Since $x^2 + y^2 \geq 0$ for all real $x$ and $y$, we have $f(x,y) = x^2 + y^2 + 1 \geq 1$.<br>
   <br>
   The minimum value is 1 (achieved at $(0,0)$), and there is no maximum.<br>
@@ -34,7 +34,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   <details>
   <summary><strong>Solution</strong></summary>
-
+  <br>
   Along the path $y = x$:
   $$\lim_{(x,x)\to (0,0)} \frac{x \cdot x}{x^2 + x^2} = \lim_{x \to 0} \frac{x^2}{2x^2} = \frac{1}{2}$$
 
@@ -62,7 +62,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   <details>
   <summary><strong>Solution</strong></summary>
-
+  <br>
   First, find the first partial derivatives:
   
   $$f_x(x,y) = y\cos(xy)$$
@@ -83,15 +83,15 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   <details>
   <summary><strong>Solution</strong></summary>
-
+  <br>
   First, verify the point is on the surface: $2^2 - 1^2 = 4 - 1 = 3$.<br>
-
+  <br>
   Find the partial derivatives:<br>
-  
+  <br>
   First, find $f_x$: $f_x(x,y) = 2x$, so $f_x(2,1) = 4$.<br>
-  
+  <br>
   Second, find $f_y$: $f_y(x,y) = -2y$, so $f_y(2,1) = -2$.
-
+  <br>
   The general tangent plane equation is:
 
   $$z = f(x_0, y_0) + f_x(x_0, y_0)(x-x_0) + f_y(x_0, y_0)(y - y_0)$$
@@ -112,7 +112,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   <details>
   <summary><strong>Solution</strong></summary>
-
+  <br>
   By the chain rule:
   $$\frac{dz}{dt} = \frac{\partial z}{\partial x} \frac{dx}{dt} + \frac{\partial z}{\partial y} \frac{dy}{dt}$$
 
@@ -123,7 +123,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   Now, evaluate variables at $t = 0$: <br>
   $x(0) = e^0 = 1$ <br>
   $y(0) = \ln(1) = 0$ <br>
-
+  <br>
   Substitute these coordinates into the derivatives:
   $$\frac{\partial z}{\partial x} = 2(1) - 0 = 2$$
   $$\frac{\partial z}{\partial y} = -1 + 2(0) = -1$$
@@ -142,7 +142,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   <details>
   <summary><strong>Solution</strong></summary>
-
+  <br>
   First, find the unit direction vector $\vec{u}$:
   $$\|\mathbf{v}\| = \sqrt{12^2 + (-5)^2} = \sqrt{144 + 25} = 13$$
   $$\vec{u} = \left\langle \frac{12}{13}, -\frac{5}{13} \right\rangle$$
@@ -169,24 +169,24 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   <details>
   <summary><strong>Solution</strong></summary>
-
+  <br>
   First, find critical points by calculating the first partials and setting to $0$:
   $$f_x = 2x + 4y - 4 = 0 \implies x + 2y = 2$$
   $$f_y = 4x + 10y - 6 = 0 \implies 2x + 5y = 3$$
 
   At this stage, you need to solve this system of equations:<br>
-  
+  <br>
   Multiply the first equation by $2$: $2x + 4y = 4$.<br>
   Subtracting this from the second equation: $(2x + 5y) - (2x + 4y) = 3 - 4 \implies y = -1$.<br>
   Substitute $y = -1$ back into $x + 2y = 2 \implies x - 2 = 2 \implies x = 4$.<br>
-
+  <br>
   The critical point is $(4, -1)$.<br>
-
+  <br>
   Now you need to calculate the second-order partials and find $D$:<br>
   $$f_{xx} = 2, \quad f_{yy} = 10, \quad f_{xy} = 4$$
   $$D = f_{xx}f_{yy} - (f_{xy})^2 = (2)(10) - (4)^2 = 20 - 16 = 4$$
 
-  Finally, classify the critical point:
+  Finally, classify the critical point:<br>
     At Point $(4, -1)$:<br>
     $$D = 4 > 0$$
     Since $D > 0$, check $f_{xx} = 2 > 0$.<br>
@@ -201,19 +201,20 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
 
   <details>
   <summary><strong>Solution</strong></summary>
-
+  <br>
   Let $g(x, y) = x^2 + y^2 - 13 = 0$.<br>
   Using Lagrange multipliers, we solve $\nabla f = \lambda \nabla g$:
   $$\nabla f = \langle 2, 3 \rangle$$
   $$\nabla g = \langle 2x, 2y \rangle$$
 
   Set up the system of equations:<br>
+  <br>
   1) $2 = 2\lambda x \implies \lambda x = 1$<br>
   2) $3 = 2\lambda y \implies 2\lambda y = 3$<br>
   3) $x^2 + y^2 = 13$<br>
-
+  <br>
   From (1) and (2), since $\lambda \ne 0$, we have $x = \frac{1}{\lambda}$ and $y = \frac{3}{2\lambda}$.<br>
-  
+  <br>
   Substitute these into (3):<br>
   $$\left(\frac{1}{\lambda}\right)^2 + \left(\frac{3}{2\lambda}\right)^2 = 13 \implies \frac{1}{\lambda^2} + \frac{9}{4\lambda^2} = 13$$
   $$\frac{13}{4\lambda^2} = 13 \implies 4\lambda^2 = 1 \implies \lambda = \pm \frac{1}{2}$$
@@ -241,7 +242,7 @@ where $R = [0, 1] \times [0, 2]$.
 
   <details>
   <summary><strong>Solution</strong></summary>
-
+  <br>
   By Fubini's Theorem, we set up the double integral as an iterated integral. We will integrate with respect to $y$ first, and then $x$:
 
   $$\iint_R (4x^3 + 9x^2y^2) \, dA = \int_{0}^{1} \int_{0}^{2} (4x^3 + 9x^2y^2) \, dy \, dx$$
@@ -268,15 +269,15 @@ where $D$ is the triangular region with vertices at $(0,0), (0,1), (1,1)$.
 
   <details>
   <summary><strong>Solution</strong></summary>
-
+  <br>
   The heart of this problem is picking the right order of integration.<br>
-
+  <br>
   Looking at the integrand, there isn't a clear way to integrate this directly with respect to $y$ since this function doesn't have an elementary antiderivative (with respect to $y$).<br>
-
+  <br>
   This means that you need to integrate with respect to $x$ first.<br>
-
+  <br>
   Sketch the region $D$ in the $xy$-plane.  This is a triangle bounded on the right by the line $y=x$.  Since you're integrating in the order $dxdy$, you need to write this line as a function of $y$: $x=y$.<br>
-
+  <br>
   Setting up the iterated integral in the order $dxdy$ gives:
   $$\iint_D \frac{\sin(y)}{y} \, dA = \int_{0}^{1} \int_{0}^{y} \frac{\sin(y)}{y} \, dx \, dy$$
 
