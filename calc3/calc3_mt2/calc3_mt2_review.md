@@ -120,8 +120,8 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   $$\frac{\partial z}{\partial x} = 2x - y, \quad \frac{\partial z}{\partial y} = -x + 2y$$
   $$\frac{dx}{dt} = 2e^{2t}, \quad \frac{dy}{dt} = \frac{1}{t+1}$$
 
-  Now, evaluate variables at $t = 0$: <\br>
-  $x(0) = e^0 = 1$ <\br>
+  Now, evaluate variables at $t = 0$: <br>
+  $x(0) = e^0 = 1$ <br>
   $y(0) = \ln(1) = 0$
 
   Substitute these coordinates into the derivatives:
