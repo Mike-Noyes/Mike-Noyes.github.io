@@ -190,7 +190,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   * At Point $(4, -1)$:<br>
     $$D = 4 > 0$$
     Since $D > 0$, check $f_{xx} = 2 > 0$.<br>
-    Therefore, $(4, -1)$ is a <b>local minimum<b>.
+    Therefore, $(4, -1)$ is a <b>local minimum</b>.
 
 
   </details>
@@ -202,7 +202,7 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   <details>
   <summary><strong>Solution</strong></summary>
 
-  Let $g(x, y) = x^2 + y^2 - 13 = 0$.,br>
+  Let $g(x, y) = x^2 + y^2 - 13 = 0$.<br>
   Using Lagrange multipliers, we solve $\nabla f = \lambda \nabla g$:
   $$\nabla f = \langle 2, 3 \rangle$$
   $$\nabla g = \langle 2x, 2y \rangle$$
@@ -217,13 +217,19 @@ If you click on **Solution** a worked solution will appear.  Only do this after 
   Substitute these into (3):<br>
   $$\left(\frac{1}{\lambda}\right)^2 + \left(\frac{3}{2\lambda}\right)^2 = 13 \implies \frac{1}{\lambda^2} + \frac{9}{4\lambda^2} = 13$$
   $$\frac{13}{4\lambda^2} = 13 \implies 4\lambda^2 = 1 \implies \lambda = \pm \frac{1}{2}$$
-
-  * If $\lambda = \frac{1}{2}$: $x = 2$, $y = 3$. Point: $(2, 3)$<br>
-  * If $\lambda = -\frac{1}{2}$: $x = -2$, $y = -3$. Point: $(-2, -3)$<br>
+  
+  <ul>
+    <li> If $\lambda = \frac{1}{2}$: $x = 2$, $y = 3$. Point: $(2, 3)$</li>
+    <li> $\lambda = -\frac{1}{2}$: $x = -2$, $y = -3$. Point: $(-2, -3)$</li>
+  </ul>
 
   Evaluate $f(x, y)$:<br>
-  * $f(2, 3) = 2(2) + 3(3) = 13$ (Maximum value)<br>
-  * $f(-2, -3) = 2(-2) + 3(-3) = -13$ (Minimum value)
+
+  <ul>  
+    <li> $f(2, 3) = 2(2) + 3(3) = 13$ (Maximum value)</li>
+    <li> $f(-2, -3) = 2(-2) + 3(-3) = -13$ (Minimum value)</li>li>
+  </ul>
+
 
   </details>
 
