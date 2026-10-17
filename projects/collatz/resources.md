@@ -20,6 +20,10 @@ Here are a couple of Bibliographies for the 3x+1 Problem, compiled by Lagarias. 
 * [Bibliography 1963-1999](https://arxiv.org/pdf/math/0309224.pdf)
 * [Bibliography 2000-2009](https://arxiv.org/pdf/math/0608208.pdf)
 
+A paper by Diego Dominici that is connected to some of the work that I did during the EML project.
+
+* [Diego Dominici Paper](DominiciCollatz.pdf)
+
 
 ## Websites and Other Resources
 
