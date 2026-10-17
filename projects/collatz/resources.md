@@ -24,14 +24,14 @@ A paper by Diego Dominici that is connected to some of the work that I did durin
 
 * [Diego Dominici Paper](DominiciCollatz.pdf)
 
-A paper by Riho Terras on the stopping time of trajectories in the Collatz Conjecture.
+A paper by Riho Terras on the stopping time of trajectories in the Collatz Conjecture.  The pdf is hard to read but there are many interesting ideas in the paper, if you can make them out.
 
 * [Riho Terras Paper](terras.pdf)
 
 
 ## Websites and Other Resources
 
-Jeffrey Lagarias’s Homepage at the University of Michigan.  If you click on the “Books and Papers” link towards the bottom it will take you to a new page where you will see a link called “3x+1 Problem and Related Problems.”  Clicking on this will take you to a page with all of the papers that Lagarias has written about “the 3x+1 Problem and Related Problems.”  There’s a lot there.
+Jeffrey Lagarias’s Homepage at the University of Michigan.  The second link takes you to the page on his website that has all of his papers about the Conjecture.
 
 * [Jeffrey Lagarias Homepage](https://websites.umich.edu/~lagarias/)
 * [Jeffrey Lagarias Collatz Papers](https://websites.umich.edu/~lagarias/3x+1.html)
