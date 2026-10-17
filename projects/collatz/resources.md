@@ -10,11 +10,11 @@ An article about Terry Tao and the Collatz Conjecture in [Quanta Magazine](quant
 
 * [Another article from Quanta about the Conjecture](https://www.quantamagazine.org/why-mathematicians-still-cant-solve-the-collatz-conjecture-20200922/)
 
-A survey article by Jeffrey Lagarias, considered the best by many, though it is old.  The first link is to the pdf, the second to an html version, whichever you prefer.
+A survey article by Jeffrey Lagarias, considered the best by many, though it is old.  The first link is to the original in an html version.  The second link is to a pdf of an updated version of the paper.
 
-* [Lagarias pdf](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Lagarias3-23.pdf)
+* [Lagarias Original Paper in html](https://www.cecm.sfu.ca/organics/papers/lagarias/paper/html/paper.html)
 
-* [Lagarias html](http://www.cecm.sfu.ca/organics/papers/lagarias/paper/html/paper.html)
+* [Lagarias Updated Paper in pdf](lagarias.pdf)
 
 Here are a couple of Bibliographies for the 3x+1 Problem, compiled by Lagarias.  The first covers papers written from 1963-1999 (74 pages!) and the second covers papers from 2000-2009 (42 pages).
 	
@@ -27,7 +27,8 @@ Here are a couple of Bibliographies for the 3x+1 Problem, compiled by Lagarias. 
 
 Jeffrey Lagarias’s Homepage at the University of Michigan.  If you click on the “Books and Papers” link towards the bottom it will take you to a new page where you will see a link called “3x+1 Problem and Related Problems.”  Clicking on this will take you to a page with all of the papers that Lagarias has written about “the 3x+1 Problem and Related Problems.”  There’s a lot there.
 
-* [Jeffrey Lagarias Homepage](http://www.math.lsa.umich.edu/~lagarias/)
+* [Jeffrey Lagarias Homepage](https://websites.umich.edu/~lagarias/)
+* [Jeffrey Lagaria Collatz Papers](https://websites.umich.edu/~lagarias/3x+1.html)
 
 A set of slides from a talk that Terry Tao gave about the Collatz Conjecture in late-2019 or early-2020.
 
