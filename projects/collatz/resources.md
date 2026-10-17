@@ -7,19 +7,16 @@ These are the resources that I used while working on the EML project.
 An article about Terry Tao and the Collatz Conjecture in [Quanta Magazine](quantamagazine.org):
 
 * [Terry Tao on Collatz Conjecture](https://www.quantamagazine.org/mathematician-terence-tao-and-the-collatz-conjecture-20191211/)
-
 * [Another article from Quanta about the Conjecture](https://www.quantamagazine.org/why-mathematicians-still-cant-solve-the-collatz-conjecture-20200922/)
 
 A survey article by Jeffrey Lagarias, considered the best by many, though it is old.  The first link is to the original in an html version.  The second link is to a pdf of an updated version of the paper.
 
 * [Lagarias Original Paper in html](https://www.cecm.sfu.ca/organics/papers/lagarias/paper/html/paper.html)
-
 * [Lagarias Updated Paper in pdf](lagarias.pdf)
 
 Here are a couple of Bibliographies for the 3x+1 Problem, compiled by Lagarias.  The first covers papers written from 1963-1999 (74 pages!) and the second covers papers from 2000-2009 (42 pages).
 	
 * [Bibliography 1963-1999](https://arxiv.org/pdf/math/0309224.pdf)
-
 * [Bibliography 2000-2009](https://arxiv.org/pdf/math/0608208.pdf)
 
 
