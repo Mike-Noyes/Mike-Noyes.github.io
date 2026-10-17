@@ -25,7 +25,7 @@ Here are a couple of Bibliographies for the 3x+1 Problem, compiled by Lagarias. 
 Jeffrey Lagarias’s Homepage at the University of Michigan.  If you click on the “Books and Papers” link towards the bottom it will take you to a new page where you will see a link called “3x+1 Problem and Related Problems.”  Clicking on this will take you to a page with all of the papers that Lagarias has written about “the 3x+1 Problem and Related Problems.”  There’s a lot there.
 
 * [Jeffrey Lagarias Homepage](https://websites.umich.edu/~lagarias/)
-* [Jeffrey Lagaria Collatz Papers](https://websites.umich.edu/~lagarias/3x+1.html)
+* [Jeffrey Lagarias Collatz Papers](https://websites.umich.edu/~lagarias/3x+1.html)
 
 A set of slides from a talk that Terry Tao gave about the Collatz Conjecture in late-2019 or early-2020.
 
