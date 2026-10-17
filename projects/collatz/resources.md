@@ -43,9 +43,9 @@ Probably my favorite math-related website on the entire internet is the Online E
 
 * [OEIS](http://oeis.org/) 
 
-Group dedicated to disproving the conjecture: 
+Keith Matthew's Home Page with lots of information related to the Collatz Conjecture.
 
-* [High Steppers](https://boinc.thesonntags.com/collatz/high_steppers.php)
+* [Keith Matthew's Home Page](http://www.numbertheory.org/keith.html)
 
 ## Non-Collatz Material
 
