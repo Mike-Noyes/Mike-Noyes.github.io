@@ -43,9 +43,9 @@ Probably my favorite math-related website on the entire internet is the Online E
 
 * [OEIS](http://oeis.org/) 
 
-Keith Matthew's Home Page with lots of information related to the Collatz Conjecture.
+Keith Matthews has tons of stuff related to the Collatz Conjecture (and all sorts of other topics in Number Theory) on his Home Page.
 
-* [Keith Matthew's Home Page](http://www.numbertheory.org/keith.html)
+* [Home Page of Keith Matthews](http://www.numbertheory.org/keith.html)
 
 ## Non-Collatz Material
 
