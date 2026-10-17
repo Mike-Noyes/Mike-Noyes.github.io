@@ -24,6 +24,10 @@ A paper by Diego Dominici that is connected to some of the work that I did durin
 
 * [Diego Dominici Paper](DominiciCollatz.pdf)
 
+A paper by Riho Terras on the stopping time of trajectories in the Collatz Conjecture.
+
+* [Riho Terras Paper](terras.pdf)
+
 
 ## Websites and Other Resources
 
