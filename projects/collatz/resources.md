@@ -4,7 +4,7 @@ These are the resources that I used while working on the EML project.
 
 ## Articles About Collatz:
 
-An article about Terry Tao and the Collatz Conjecture in [Quanta Magazine](quantamagazine.org):
+An article about Terry Tao and the Collatz Conjecture in [Quanta Magazine](https://www.quantamagazine.org):
 
 * [Terry Tao on Collatz Conjecture](https://www.quantamagazine.org/mathematician-terence-tao-and-the-collatz-conjecture-20191211/)
 * [Another article from Quanta about the Conjecture](https://www.quantamagazine.org/why-mathematicians-still-cant-solve-the-collatz-conjecture-20200922/)
