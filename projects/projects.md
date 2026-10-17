@@ -8,7 +8,7 @@ This page contains links to various Mathematical Projects that I am currently wo
 
 ## Past Projects
 
-* [The Collatz Conjecture](collatz/collatz.html)
+* [The Collatz Conjecture](projects/collatz/collatz.html)
 
 
 ## Navigation
