@@ -14,4 +14,4 @@ This page has links to material that I used or created while doing an Experiment
 ## Navigation
 
 * [Back to Math Projects Main Page](../projects.html)
-* [Back to Home](../../index.html)
+* [Back to Home](../../../index.html)
