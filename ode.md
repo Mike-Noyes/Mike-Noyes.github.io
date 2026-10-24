@@ -21,6 +21,14 @@ We will be using Sage extensively in this course.  Trust me, you will want to ge
 
 * [Sage Resources](ode/ode_sage.html)
 
+Here's a link to a page of Sage cells.  This can be very useful for running multiple computations needing more than one cell.
+
+* [Sage Cells](ode/ode_sage_cells.html)
+
+If you just want (or need) one Sage cell, the SageMath webpage is where you want to go:
+
+* [Sage Math](https://sagecell.sagemath.org/)
+
 There are so many incredible resources available on the internet.  Some of my favorites can be found on the page linked to below.
 
 * [Differential Equations on the Web](ode/ode_web.html)
