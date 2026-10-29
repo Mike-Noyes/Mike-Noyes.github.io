@@ -17,6 +17,12 @@ The following links will take you to some Desmos files and the notes that were h
 * [Desmos files](../../desmos/linalg_week1/week1_desmos_files.html)
 * [Formula Sheets and Notes](linalg_week1_notes.html)
 
+## Sage Workbooks
+
+The following links will open workbooks with embedded Sage cells to help you practice some of the techniques that we've talked about this week.
+
+* [Bases](bases.html)
+
 ## Navigation
 
 The following links will return you either to the Linear Algebra Main Page or the Home Page:
