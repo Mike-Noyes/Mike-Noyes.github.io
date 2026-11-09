@@ -185,13 +185,13 @@ If you click on **Solution** a worked solution will appear. Only do this after y
   <details>
   <summary><strong>Solution</strong></summary>
 
-  On the positive $x$-axis, $\vec F(x,0)=\langle0,x\rangle$ points {\bf up}. On the positive $y$-axis, $\vec F(0,y)=\langle-y,0\rangle$ points {\bf left}. On the negative $x$-axis the vectors point {\bf down}, and on the negative $y$-axis they point {\bf right}.
+  On the positive $x$-axis, $\vec F(x,0)=\langle0,x\rangle$ points up. On the positive $y$-axis, $\vec F(0,y)=\langle-y,0\rangle$ points left. On the negative $x$-axis the vectors point down, and on the negative $y$-axis they point right.
 
   The radial vector from the origin is $\langle x,y\rangle$. Its dot product with the field is
 
   $$\langle x,y\rangle\cdot\langle-y,x\rangle=-xy+xy=0.$$
 
-  Therefore, except at the origin (where the field is zero), each vector is perpendicular to the radial direction and {\bf tangent} to a circle centered at the origin. The field circulates {\bf counterclockwise}. Its magnitude is $\|\vec F(x,y)\|=\sqrt{x^2+y^2}$, so arrows grow longer farther from the origin.
+  Therefore, except at the origin (where the field is zero), each vector is perpendicular to the radial direction and tangent to a circle centered at the origin. The field circulates counterclockwise. Its magnitude is $\|\vec F(x,y)\|=\sqrt{x^2+y^2}$, so arrows grow longer farther from the origin.
 
   </details>
 
