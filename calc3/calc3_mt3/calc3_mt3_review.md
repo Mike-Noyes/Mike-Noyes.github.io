@@ -40,7 +40,7 @@ If you click on **Solution** a worked solution will appear. Only do this after y
 
 ## Surface Area (15.6)
 
-* **Non-parametric surface:** Find the area of the portion of the plane $z=2x+3y$ above the rectangle $0\leq x\leq2$, $0\leq y\leq1$.
+*  Find the area of the portion of the plane $z=2x+3y$ above the rectangle $0\leq x\leq2$, $0\leq y\leq1$.
 
   <details>
   <summary><strong>Solution</strong></summary>
@@ -56,7 +56,7 @@ If you click on **Solution** a worked solution will appear. Only do this after y
 
   </details>
 
-* **Parametric surface:** Find the area of the lateral surface of the cylinder parametrized by $\vec r(u,v)=\langle 2\cos u,2\sin u,v\rangle$, where $0\leq u\leq2\pi$ and $0\leq v\leq3$. (Do not include the top or bottom disks.)
+*  Find the area of the lateral surface of the cylinder parametrized by $\vec r(u,v)=\langle 2\cos u,2\sin u,v\rangle$, where $0\leq u\leq2\pi$ and $0\leq v\leq3$. (Do not include the top or bottom disks.)
 
   <details>
   <summary><strong>Solution</strong></summary>
@@ -82,7 +82,7 @@ If you click on **Solution** a worked solution will appear. Only do this after y
 
 ## Triple Integrals (15.7)
 
-* **Straightforward integral:** Evaluate $\displaystyle\iiint_E (x+y+z)\,dV$ over the box $E=[0,1]\times[0,2]\times[0,3]$.
+*  Evaluate $\displaystyle\iiint_E (x+y+z)\,dV$ over the box $E=[0,1]\times[0,2]\times[0,3]$.
 
   <details>
   <summary><strong>Solution</strong></summary>
@@ -99,7 +99,7 @@ If you click on **Solution** a worked solution will appear. Only do this after y
 
   </details>
 
-* **Changing the order:** Evaluate the following integral by changing the order of integration to $dy\,dz\,dx$ before integrating.
+*  Evaluate the following integral by changing the order of integration to $dy\,dz\,dx$ before integrating.
 
   $$\int_0^1\int_0^x\int_0^y 2z\,dz\,dy\,dx.$$
 
@@ -122,7 +122,7 @@ If you click on **Solution** a worked solution will appear. Only do this after y
 
 ## Triple Integrals in Cylindrical and Spherical Coordinates (15.8)
 
-* **Cylindrical coordinates:** Find the volume of the solid inside the cylinder $x^2+y^2\leq4$, above the plane $z=0$, and below the paraboloid $z=4-x^2-y^2$.
+* Find the volume of the solid inside the cylinder $x^2+y^2\leq4$, above the plane $z=0$, and below the paraboloid $z=4-x^2-y^2$.
 
   <details>
   <summary><strong>Solution</strong></summary>
@@ -136,7 +136,7 @@ If you click on **Solution** a worked solution will appear. Only do this after y
 
   </details>
 
-* **Spherical coordinates:** Find the volume inside the sphere $x^2+y^2+z^2\leq9$ and above the cone $z=\sqrt{x^2+y^2}$.
+* Find the volume inside the sphere $x^2+y^2+z^2\leq9$ and above the cone $z=\sqrt{x^2+y^2}$.
 
   <details>
   <summary><strong>Solution</strong></summary>
@@ -248,6 +248,6 @@ If you click on **Solution** a worked solution will appear. Only do this after y
 
 ## Navigation
 
-* [Back to the Midterm 2 Page](calc3_mt2.html)
+* [Back to the Midterm 3 Page](calc3_mt3.html)
 * [Back to the Calc 3 Main Page](../../calc3.html)
 * [Back to Home](../../index.html)
