@@ -11,10 +11,10 @@ This section increases the level of abstraction by focusing on parameterization,
 
 ## Review Material
 
-Coming Soon!!!  There's nothing here yet, so you'll just have to be patient.
+There are review problems!  But no worked example problems yet (stay tuned for those).
 
 * [Worked Example Problems]()
-* [Review Problems]()
+* [Review Problems](calc3_mt3_review.html)
 
 
 ## Navigation
